@@ -1,0 +1,7 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 9/1986, de 9 de diciembre, de reconocimiento de las Comunidades Murcianas asentadas fuera de la región.
+Por consiguiente, al amparo del artículo 30.2, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+La magnitud y consecuencias de la emigración producida en el territorio de la Región de Murcia constituye uno de los fenómenos más importantes y representativos de la evolución demográfica murciana a lo largo del siglo XX, con grandes y evidentes repercusiones en el ámbito sociológico y socioeconómico.
+La Comunidad Autónoma de la Región de Murcia, en desarrollo del artículo 7.2 de su Estatuto de Autonomía y en parte del artículo 9.2, e), se propone adoptar las medidas necesarias para garantizar a todos los murcianos, ubicados fuera de su ámbito territorial, al igual que a sus asociaciones y centros sociales, el reconocimiento de su condición, así como el derecho a colaborar y compartir la vida social y cultural de la Región de Murcia, creando los cauces jurídicos que hagan posible el ejercicio de este derecho.
+Con estas finalidades, la presente Ley regula los requisitos que han de reunir para tener derecho a dicha participación, así como el contenido de tal derecho, creando asimismo los cauces de colaboración y participación entre la Comunidad Autónoma y las Comunidades Murcianas asentadas fuera de nuestra región.
