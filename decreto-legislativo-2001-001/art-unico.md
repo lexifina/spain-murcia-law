@@ -1,0 +1,2 @@
+Artículo único.
+De conformidad con lo establecido en la Disposición Final Primera de la Ley 9/1999, de 27 de diciembre, de Medidas Tributarias y de Modificación de Diversas Leyes Regionales en materia de Tasas, Puertos, Educación, Juego y Apuestas y Construcción y Explotación de Infraestructuras y en la Disposición Final Primera de la Ley 7/2000, de 29 de diciembre, de Medidas Tributarias y en Materia de Juego, Apuestas y Función Pública se aprueba el Texto Refundido de fa Ley de la Función Pública de la Región de Murcia, que se inserta a continuación, como Anexo.
