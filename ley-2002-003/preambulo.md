@@ -1,0 +1,8 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 3/2002, de 20 de mayo, de Tarifa del Canon de Saneamiento.
+Por consiguiente, al amparo del artículo 30.dos, del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+PREÁMBULO
+La Ley 3/2000, de 12 de julio, de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia e Implantación del Canon de Saneamiento, establece el canon de saneamiento con naturaleza de ingreso de derecho público de la Hacienda Pública Regional cuya recaudación se destinará exclusivamente a la realización de los fines recogidos en ella y, expresamente, a aquellos relacionados con la financiación de los gastos de gestión, explotación y conservación de las instalaciones públicas de saneamiento y depuración, y, en su caso, también con los de las obras de construcción de dichas infraestructuras que pudieran corresponderle.
+La Ley establece la modalidad de la tarifa, en cuanto a su estructura binomia, con una parte fija y otra parte variable, así como su diferente valor según los usos domésticos o no domésticos del agua consumida.
+Posteriormente, la disposición adicional tercera de la Ley 7/2000, de 29 de diciembre, dispuso que la cuantía de la primeras tarifas del canon de saneamiento, así como la fecha de inicio de su exacción, se establecerían mediante una Ley.
+Esta disposición establece, asimismo, que dicha Ley debe incluir la relación completa de las aglomeraciones urbanas con indicación de aquellas en las que sea de aplicación la bonificación establecida por la disposición adicional cuarta de la Ley 3/2000, de 12 de julio.
