@@ -1,0 +1,2 @@
+Quedan derogadas las disposiciones relativas a la caza y pesca fluvial, así como cuantas disposiciones, de los títulos I, II, IV y V, hubieren de aplicarse a las especies objeto de aprovechamiento cinegético incluidas en el Anexo I, según establece la disposición derogatoria de la Ley 7/2003, de 12 de noviembre. Ref. BOE-A-2004-3376#dd.
+Esta norma pasa a denominarse "Ley 7/1995, de 21 de abril, de Fauna Silvestre de la Región de Murcia", según establece la disposición adicional 5 de la Ley 7/2003, de 12 de noviembre.
