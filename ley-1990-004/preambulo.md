@@ -1,0 +1,8 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 4/1990, de 11 de abril, de fomento del patrimonio histórico de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.2 del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+En el marco jurídico estatal de la Ley 16/1985 se introducen normas de fomento y protección del patrimonio histórico español. A través de ellas se establece la inclusión de una partida equivalente, al menos, al 1 por 100 del valor de las inversiones en obras públicas para financiar trabajos de conservación o enriquecimiento del patrimonio histórico. El mandato constitucional del artículo 46 de la Norma Fundamental vincula a todos los poderes públicos para la protección y el enriquecimiento de los bienes que lo integran.
+Nuestra Comunidad Autónoma ha asumido como competencia exclusiva el patrimonio cultural, histórico y arqueológico, monumental y artístico de interés para la Región, así como el fomento de la cultura y de la investigación.
+La Región de Murcia cuenta con un importante legado cultural. Para su protección necesita no solamente una infraestructura administrativa adecuada, sino también los medios materiales más imprescindibles. La acción pública debe estar apoyada por la correspondiente financiación.
+La aplicación en nuestra Región del 1 por 100 cultural no va a suponer la solución de los problemas que afectan al patrimonio histórico murciano, pero será una ayuda importante que deberá ir unida a la voluntad política de salvaguardar el patrimonio y una mayor sensibilización ciudadana respecto al mismo.
