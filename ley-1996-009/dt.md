@@ -1,0 +1,2 @@
+Disposición transitoria.
+En el plazo de seis meses a partir de la entrada en vigor de la presente Ley, los Estatutos provisionales aprobados por la delegación autonómica de Murcia de la Asociación Española de Fisioterapeutas, en su asamblea de 18 de febrero de 1995, deberán someterse al órgano competente de la Comunidad Autónoma de Murcia para que dictamine sobre su legalidad y, en su caso, ordene su inserción en el «Boletín Oficial de la Región de Murcia».
