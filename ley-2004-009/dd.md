@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Sin perjuicio de lo dispuesto en las disposiciones adicionales y transitorias de esta Ley, queda derogada la Ley 7/1994, de 17 de noviembre, por la que se extingue Radio Televisión Murciana y se regula el Servicio Público de Radiodifusión de la Región de Murcia, su organización y control parlamentario y demás normas de desarrollo, así como cualquiera otras disposiciones de igual o inferior rango, que se opongan a lo dispuesto en la presente Ley.
