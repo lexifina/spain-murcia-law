@@ -90,44 +90,73 @@ Minas de la Celia.
 Cabezo Gordo.
 Colonias de chova piquirroja de Peñarrubia de Jumilla, sierra del Buey, Peña María de Zarcilla, Peñambia de Zarcilla y Caramucel (La Pila).
 ANEXO III
-Especies de la fauna silvestre susceptibles de aprovechamiento en la Región de Murcia
+Especies de la fauna silvestre susceptibles de pesca, caza o captura en la Región de Murcia
 Especies pescables:
 Invertebrados:
-Cangrejo rojo-Procambarus clarkii.
+– Cangrejo rojo (Procambarus clarkii)
 Peces:
-Anguila-Anguilla anguilla.
-Trucha común-Salmo trutta.
-Trucha arco-iris-Oncorhynchus mykiss.
-Lucio-Esox lucius.
-Barbos-Barbus sp.
-Pez rojo-Carassius auratus.
-Carpa-Cyprinus carpio.
-Boga de río-Chondrostoma polylepis.
-Black-bass o perca americana-Micropterus salmoides.
+– Anguila (Anguilla anguilla)
+– Trucha común (Salmo trutta)
+– Trucha arco-iris (Oncorhynchus mykiss)
+– Lucio (Esox lucius)
+– Barbos (Barbus sp.)
+– Pez rojo (Carassius auratus)
+– Carpa (Cyprinus carpio)
+– Boga de río (Chondrostona polylepis)
+– Black-bass o perca americana (Mocropterus salmoides)
 Especies cazables:
-Perdiz roja-Alectoris rufa.
-Codorniz común-Coturnix coturnix.
-Faisán vulgar-Phasianus colchicus.
-Paloma torcaz-Columba palumbus.
-Paloma bravía-Columba livia.
-Tórtola común-Streptopelia turtur.
-Tórtola turca-Streptopelia decaocto.
-Zorzal real-Turdus pilaris.
-Zorzal común-Turdus philomelos.
-Zorzal alirrojo-Turdus iliacus.
-Zorzal charlo-Turdus viscivorus.
-Estornino pinto-Sturnus vulgaris.
-Estornino negro-Sturnus unicolor.
-Zorro-Vulpes vulpes.
-Conejo-Oryctolagus cuniculus.
-Liebre ibérica-Lepus granatensis.
-Jabalí-Sus scrofa.
-Ciervo-Cervus elaphus.
-Corzo-Capreolus capreolus.
-Arruí-Ammotragus lervia.
-Cabra montés-Capra pyrenaica.
+– Perdiz roja (Alectoris rufa)
+– Codorniz común (Coturnix coturnix)
+– Faisán vulgar (Phasianus colchicus)
+– Paloma torcaz (Columba palumbus)
+– Paloma bravía (Columba livia)
+– Tórtola común (Streptopelia turtur)
+– Tórtola turca (Streptopelia decaocto)
+– Zorzal real (Turdus pilaris)
+– Zorzal común (Turdus philomelos)
+– Zorzal alirrojo (Turdus aliacus)
+– Zorzal charlo (Turdus viscivorus)
+– Estornino pinto (Sturnus vulgaris)
+– Estornino negro (Sturnus unicolor)
+– Zorro (Vulpes vulpes)
+– Conejo (Oryctolagus cuniculus)
+– Liebre ibérica (Lepus granatensis)
+– Jabalí (Sus scrofa)
+– Ciervo (Cervus elaphus)
+– Corzo (Capreolus capreolus)
+– Arruí (Ammotragus lervia)
+– Cabra montés (Capra pyrenaica)
 Especies capturables:
-Jilguero-Carduelis carduelis.
-Pardillo-Acanthis cannabina.
-Verderón-Carduelis chloris.
-Verdecillo-Serinus serinus.
+– Jilguero (Carduelis carduelis)
+– Pardillo (Acanthis cannabina)
+– Verderón (Carduelis chloris)
+– Verdecillo (Serinus serinus)
+Se modifica por el art. único de la Ley 10/2002, de 12 de noviembre. Ref. BORM-s-2002-90016.
+ANEXO IV
+Especies de la fauna silvestre susceptibles de comercialización, en vivo o en muerto, en la Región de Murcia
+Especies pescables:
+Invertebrados:
+– Cangrejo rojo (Procambarus clarkii)
+Peces:
+– Anguila (Anguilla anguilla)
+– Trucha común (Salmo trutta)
+– Trucha arco-iris (Oncorhynchus mykiss)
+– Lucio (Esox lucius)
+– Barbos (Barbus sp.)
+– Pez rojo (Carassius auratus)
+– Carpa (Cyprinus carpio)
+– Boga de río (Chondrostona polylepis)
+Especies cazables:
+– Perdiz roja (Alectoris rufa)
+– Codorniz común (Coturnix coturnix)
+– Faisán vulgar (Phasianus colchicus)
+– Paloma torcaz (Columba palumbus)
+– Zorro (Vulpes vulpes)
+– Conejo (Oryctolagus cuniculus)
+– Liebre ibérica (Lepus granatensis)
+– Jabalí (Sus scrofa)
+– Ciervo (Cervus elaphus)
+– Corzo (Capreolus capreolus)
+– Arruí (Ammotragus lervia)
+– Cabra montés (Capra pyrenaica)
+Se añade por el art. único de la Ley 10/2002, de 12 de noviembre. Ref. BORM-s-2002-90016.
