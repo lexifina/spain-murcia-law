@@ -1,0 +1,9 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 5/1997, de 13 de octubre, de ferias de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Ley 2/1986, de 20 de enero, de Ferias de la Región de Murcia, actualmente vigente, contiene preceptos que entran en colisión con el Derecho Comunitario, básicamente en lo que se refiere a la vulneración del principio de libre participación en ferias y exposiciones de empresarios de países miembros de la Unión Europea; circunstancia que ha sido denunciada insistentemente por la Comisión.
+Gozando el Derecho Comunitario de prevalencia o supremacía sobre el Derecho interno español, en virtud del Tratado de Adhesión de España en 1985, en relación con el artículo 93 de la Constitución española, procede introducir en la citada Ley 2/1986 las modificaciones necesarias para llevar a efecto dicha adecuación.
+La presente Ley no va, por consiguiente, más allá de establecer cambios puntuales en el sentido expresado, huyendo de entrar en alteraciones más sustanciales, incompatibles con la celeridad que, por obvias razones, ha de imprimirse a este nuevo texto, respondiendo al compromiso del Gobierno regional.
+Ello no obstante, la presente Ley brinda asimismo la oportunidad de actualizar determinados aspectos de la Ley de Ferias murciana, como son las referencias que en la misma se contienen a textos legales, la propia denominación del Registro de Ferias Oficiales e Instituciones Feriales y la cuantía de las multas, para adecuarlas al incremento experimentado por el IPC. Asimismo, se introducen mínimas correcciones, básicamente de estilo.
+Finalmente, del nuevo texto desaparecen las disposiciones transitorias de la anterior Ley, dado su carácter coyuntural.
