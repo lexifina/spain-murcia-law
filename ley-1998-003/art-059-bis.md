@@ -1,0 +1,3 @@
+Artículo 59 bis. Comisión de Retribuciones de las Cajas de Ahorros.
+El Consejo de Administración de las Cajas de Ahorros constituirá en su seno una Comisión de Retribuciones que tendrá la función de informar sobre la política general de retribuciones e incentivos para los miembros del Consejo y personal directivo. La Comisión estará formada por un máximo de tres personas, que serán designadas de entre sus miembros por el Consejo de Administración. El régimen de funcionamiento de la Comisión de Retribuciones será establecido por los estatutos de la Caja y su propio reglamento interno.
+Se añade por el art. único.5 de la Ley 1/2004, de 24 de mayo. Ref. BOE-A-2005-14340
