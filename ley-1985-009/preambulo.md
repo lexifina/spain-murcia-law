@@ -1,0 +1,8 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 9/1985, de 10 de diciembre, de Ios Órganos Consultivos de la Administración Regional.
+Por consiguiente, al amparo del articulo 30.2 del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+EXPOSICIÓN DE MOTIVOS
+El derecho de los ciudadanos a participar en los asuntos públicos es un derecho constitucional reconocido en diversos preceptos de la Constitución española.
+Este derecho tiene muy variadas manifestaciones de carácter orgánico, cooperativo o funcional (informaciones públicas, denuncias, ejercicio de acciones populares, derecho de petición e iniciativas y sugerencias, entre otras), manifestaciones contempladas ya en su mayor parte, en la legislación vigente, tanto estatal corno autonómica.
+La Comunidad Autónoma ha contemplado de un modo especial la participación que se concreta en las iniciativas y sugerencias a que se refiere el artículo 34 de la Ley de Procedimiento Administrativo a través de la creación por el Decreto 10/1985, de 22 de febrero, de la Oficina de Información, Iniciativas y Reclamaciones, dependiente de la Secretaría General Técnica de la Consejería de Presidencia y, a través de la Comisión de Peticiones y Defensa del ciudadano, que regulan Ios artículos 162 y 163 del Reglamento de la Asamblea Regional.
+La presente Ley se refiere a la participación ciudadana de carácter orgánico de los grupos sociales organizado, con el objeto de unificar y sistematizar la regulación de esta forma de participación que ya se viene produciendo con una gran intensidad.
