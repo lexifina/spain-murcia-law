@@ -1,0 +1,1 @@
+Téngase en cuenta, sobre la posibilidad modificación o actualización anual de las tasas por las leyes de presupuestos de cada año, según establece la disposición adicional segunda de la presente norma.
