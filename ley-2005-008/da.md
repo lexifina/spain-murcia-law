@@ -1,0 +1,2 @@
+Disposición adicional.
+El Consejo de Gobierno, a propuesta de la consejería competente en materia de vivienda elaborará, en el plazo de un año desde la entrada en vigor de esta Ley, un programa marco de actuaciones para la calidad en la edificación que contendrá los mecanismos de aplicación, definirá las previsiones del futuro desarrollo reglamentario, y las medidas de fomento e impulso para la mejora e implantación del marco normativo.
