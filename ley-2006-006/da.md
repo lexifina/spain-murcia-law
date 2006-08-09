@@ -1,0 +1,3 @@
+Disposición adicional.
+1. Los ayuntamientos de la Comunidad Autónoma de la Región de Murcia que dispongan de ordenanzas o reglamentos municipales de abastecimiento de aguas deberán proceder a su adaptación a lo dispuesto en la presente Ley en el plazo de un año desde su entrada en vigor. No obstante lo anterior, esta Ley será de aplicación directa hasta el momento que se produzca la adaptación de las ordenanzas o reglamentos municipales antes citados y en aquellos municipios que las mismas no existieran.
+2. El Ente Público del Agua redactará una ordenanza tipo de abastecimiento de aguas que pueda servir de referencia para la elaboración de la misma por parte de las entidades locales.
