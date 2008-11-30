@@ -1,0 +1,8 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA
+Sea notorio a todos los ciudadanos de la Región de Murcia, que la Asamblea Regional ha aprobado la Ley 5/2008, de 13 de noviembre, por la que se extingue la Cámara Agraria de la Región de Murcia.
+Por consiguiente, al amparo del artículo 30.Dos del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+La Ley 18/2005, de 30 de septiembre, deroga la Ley 23/1986, de 24 de diciembre, por la que se establecían las bases del régimen jurídico de las cámaras agrarias, que exigía que en cada provincia existiera una cámara agraria con ese ámbito territorial.
+Eliminada la regulación básica estatal, corresponde a nuestra Comunidad Autónoma la decisión sobre la extinción o mantenimiento de la Cámara Agraria de la Región de Murcia.
+La poca virtualidad de las funciones que desarrolla la Cámara Agraria aconseja la extinción de la misma.
+La extinción obliga a establecer el régimen y destino del patrimonio y del personal que está prestando servicios en la misma y establecer un nuevo sistema que determine la representatividad de las organizaciones profesionales agrarias en el ámbito autonómico, que hasta ahora se medía mediante las elecciones a miembros del Pleno de la Cámara Agraria. El patrimonio debe destinarse a fines y servicios de interés general agrario, y el sistema de representatividad está sujeto, hasta que no se establezca un nuevo sistema para la determinación de la representatividad, a procedimientos electorales, conforme a lo dispuesto en las disposiciones adicional única y transitoria única de la Ley 18/2005, de 30 de septiembre.
