@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 11/2006, de 22 de diciembre, sobre Régimen del Comercio Minorista de la Región de Murcia" según establece el art. 5.1 de la Ley 12/2009, de 11 de diciembre. Ref. BOE-A-2011-3015.
