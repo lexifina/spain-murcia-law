@@ -2,7 +2,6 @@ Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, 
 Murcia, 30 de noviembre de 2009.–El Presidente, Ramón Luis Valcárcel Siso.
 ANEXO
 Relación de concesiones cuyo plazo se amplía
-Las concesiones vigentes en el momento de la entrada en vigor de la presente Ley son las siguientes:
 Concesión | Denominación
 MUR-003 | Balsicas(Estación)-San Pedro del Pinatar.
 MUR-004 | Caravaca-Nerpio.
@@ -25,6 +24,7 @@ MUR-055 | La Unión-Murcia.
 MUR-056 | Aledo-Totana.
 MUR-057 | Cieza-Salto del Progreso.
 MUR-059 | Ceutí-Mula.
+MUR-065 | Águilas-Garrobillo.
 MUR-068 | Murcia-Pinoso.
 MUR-070 | Lorca-Puntas de Calnegre.
 MUR-073 | Blanca-Venta Román.
@@ -38,5 +38,6 @@ MUR-089 | La Copa-Bullas.
 MUR-090 | El Rellano-El Fenazar-Molina-Murcia.
 MUR-092 | Valle de Ricote-Murcia-Playas del Mar Menor y Mayor.
 MUR-093 | Murcia y cercanías.
+Se añade una nueva concesión MUR-065 por la disposición adicional 6 de la Ley 13/2009, de 23 de diciembre. Ref. BOE-A-2011-3016
 Información relacionada
 Véase la disposición adicional de la Ley 12/2012, de 27 de diciembre. Ref. BOE-A-2013-1875, sobre la convalidación de los contratos-programa de fecha 2 de diciembre de 2009 derivados de la Ley 10/2009, de 30 de noviembre.
