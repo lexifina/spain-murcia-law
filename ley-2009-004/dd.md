@@ -1,0 +1,6 @@
+Disposición derogatoria. Derogación normativa.
+1. Queda derogada la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia.
+2. Queda derogada la disposición adicional segunda del Decreto Legislativo 1/2005, de 10 de junio, por el que se aprueba el Texto Refundido de la Ley del Suelo de la Región de Murcia, y las referencias que dicha norma hace a la evaluación de impacto ambiental, al estudio de impacto ambiental y a la declaración de impacto ambiental de instrumentos de ordenación territorial o urbanística.
+3. Asimismo, se derogan los apartados 4, 5, 6 y 7 del artículo 2, y el artículo 9 del Decreto 16/1999, de 22 de abril, de vertidos de aguas residuales industriales al alcantarillado.
+En lo demás, y hasta la entrada en vigor del desarrollo reglamentario a que se refiere el apartado 4 del artículo 66, mantendrá su vigencia el citado Decreto en lo que no se oponga a esta ley. En particular, se mantiene vigente la relación de vertidos prohibidos (anexo II), de valores máximos instantáneos de los parámetros de contaminación (anexo III) y de los métodos analíticos establecidos para la determinación de las características de los vertidos (anexo IV).
+4. Se deroga la Orden de 11 de diciembre de 1997, de adecuación de las industrias y demás actividades a las exigencias de la legislación ambiental.

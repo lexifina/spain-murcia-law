@@ -1,3 +1,15 @@
+ANEXO I
+Instalaciones y actividades sujetas a autorización ambiental única
+Quedan sujetas a autorización ambiental única las actividades e instalaciones que, estando sometidas a licencia municipal de actividad, se encuentren también comprendidas alguno o algunos de los supuestos siguientes:
+1) Las actividades que deban obtener una declaración de impacto ambiental, por exigencia de esta ley o de la normativa estatal aplicable, bien porque estén sometidas directamente a evaluación ambiental de proyectos, o bien porque el órgano ambiental haya determinado, tras el trámite de decisión caso por caso, que el proyecto debe someterse a evaluación ambiental.
+Las actividades que, estando sometidas a evaluación ambiental de proyectos por figurar en el anexo III o por la legislación estatal aplicable, hayan sido evaluadas con anterioridad a la entrada en vigor de esta ley, sólo quedarán sujetas a autorización ambiental única cuando deban obtener una declaración de impacto ambiental para ejecutar modificaciones o ampliaciones de proyecto.
+2) Las instalaciones que realicen vertidos desde tierra al mar, sometidos a autorización de la Comunidad Autónoma de la Región de Murcia, regulada por la Ley 22/1988, de 28 de julio, de Costas.
+3) Las instalaciones y actividades productoras de residuos peligrosos, sometidas a autorización por el artículo 9.1 de la Ley 10/1998, de 21 de abril, de Residuos, incluyendo las productoras de residuos que no tengan tal consideración y que figuren en la lista que, en su caso, apruebe la Comunidad Autónoma por razón de las excepcionales dificultades que pudiera plantear la gestión de dichos residuos.
+Se excluyen las actividades o instalaciones que, mediante su inscripción en el registro autonómico correspondiente, adquieran el carácter de pequeños productores de residuos peligrosos.
+4) La actividades de valorización y eliminación de residuos previstas en el artículo 13.1 de la Ley 10/1998, de 21 de abril, de Residuos, así como las de recogida y el almacenamiento de residuos peligrosos, y su transporte cuando se realice asumiendo la titularidad del residuo el transportista, prevista en el artículo 22.1 de la citada ley.
+Se excluyen las actividades de gestión de residuos no peligrosos distintas a la valorización o eliminación, así como el transporte de residuos peligrosos, cuando el transportista sea un mero intermediario que realice esta actividad por cuenta de terceros, sin perjuicio de su notificación al órgano autonómico competente.
+5) Las instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo de actividades potencialmente contaminadoras de la atmósfera, recogido en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, y que figuran en dicho anexo como pertenecientes a los grupos A y B.
+6) Las actividades de ámbito supramunicipal que no estén exentas de calificación ambiental.
 ANEXO II
 Actividades exentas de calificación ambiental
 a) Talleres artesanos y talleres auxiliares de construcción de albañilería, escayolistería, cristalería, electricidad, fontanería, calefacción y aire acondicionado.
@@ -293,3 +305,7 @@ Cuando se trate de planes especiales de reforma interior y rehabilitación, que 
 En el caso de planes especiales de ordenación y protección de conjuntos históricos en suelo urbano, planes especiales de ordenación de núcleos rurales y planes especiales de adecuación urbanística sobre suelo urbano.
 5. Para el resto de instrumentos de planeamiento urbanístico, que no queden sometidos o excluidos de evaluación ambiental de planes y programas según las reglas anteriores, será el órgano ambiental quien determine si han de ser objeto de evaluación de planes y programas, de la forma establecida en esta ley.
 6. Cuando la existencia de otros instrumentos de planeamiento urbanístico, aprobados o en tramitación en el mismo o distinto municipio, o bien otras circunstancias concurrentes, permitan deducir la existencia de fraccionamiento, el órgano promotor someterá el instrumento de planeamiento al trámite de evaluación ambiental de planes y programas, y ésta se llevará a cabo tomando en consideración la totalidad de los instrumentos de planeamiento a que dio lugar el fraccionamiento.
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
+Murcia, 14 de mayo de 2009.
+El Presidente,
+Ramón Luis Valcárcel Siso
