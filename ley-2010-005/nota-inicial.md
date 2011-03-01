@@ -1,0 +1,1 @@
+Téngase en cuenta que el título I de la presente Ley tendrá vigencia hasta el 31 de diciembre de 2011, según se establece en su disposición final 2.2, en la redacción dada por el art. único.6 de la Ley 1/2011, de 24 de febrero. Ref. BOE-A-2012-2264
