@@ -1,0 +1,3 @@
+Artículo 107 bis. Reducción del anticipo societario por rehúse del reembolso de aportaciones.
+Cuando un socio trabajador cause baja en la sociedad cooperativa y solicite el reembolso de sus aportaciones no exigibles, y dicha solicitud sea rehusada incondicionalmente por el Consejo Rector o la Asamblea General, según dispongan los estatutos; los anticipos societarios a percibir por los socios trabajadores se reducirán desde el momento en que se rehúse el reembolso hasta que se pueda hacer efectivo, en al menos un diez por ciento, pudiendo la Asamblea General establecer un porcentaje mayor.
+Se añade por el art. único.29 de la Ley 4/2011, de 21 de octubre. Ref. BOE-A-2012-2267.
