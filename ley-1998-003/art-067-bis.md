@@ -1,0 +1,13 @@
+CAPÍTULO VII
+Representación de los cuotapartícipes con derechos políticos
+Se añade por el art. único.38 de la Ley 4/2012, de 15 de junio. Ref. BOE-A-2013-1789
+Artículo 67 bis. Derechos de representación de los cuotapartícipes en la Asamblea General.
+1. En caso de que una Caja de Ahorros emita cuotas participativas que confieran a sus titulares derechos de representación en los órganos de gobierno de la Caja, los cuotapartícipes dispondrán en la Asamblea General de un número de votos proporcional al porcentaje que supongan sus cuotas participativas sobre el patrimonio neto total de la caja, que se computará tanto a efectos de adopción de acuerdos como de quórum de asistencia para la válida constitución de la Asamblea General.
+Los porcentajes de representación por grupos deberán cumplirse respecto de los derechos de voto resultantes, una vez deducidos del total los que hayan de corresponder a los cuotapartícipes.
+2. Los cuotapartícipes tendrán derecho a asistir a las asambleas generales que celebre la Caja de Ahorros emisora y a votar para formar la voluntad necesaria para la válida adopción de acuerdos en los términos previstos en esta ley.
+Los estatutos podrán exigir la posesión de un número mínimo de cuotas para asistir a la Asamblea General, sin que, en ningún caso, el número exigido pueda ser superior al uno por mil del total de cuotas emitidas con derechos de representación que se encuentren en circulación.
+Para el ejercicio del derecho de asistencia y de voto en las asambleas generales será lícita la agrupación de cuotas.
+Todo cuotapartícipe que tenga derecho de asistencia podrá hacerse representar en la Asamblea General por medio de otra persona, aunque ésta no sea titular de cuotas participativas. Los estatutos podrán limitar esta facultad. A estos efectos, será de aplicación supletoria, en tanto no se oponga a lo previsto en esta Ley, la normativa reguladora de la representación de los accionistas en las sociedades anónimas.
+3. Sin perjuicio de lo previsto en el apartado anterior, la participación de los cuotapartícipes en la Asamblea General no afectará al número de consejeros generales que, de acuerdo con la normativa vigente, corresponda a los distintos grupos representativos de intereses colectivos.
+4. Los derechos políticos derivados de la suscripción de cuotas participativas por entidades públicas computarán a los efectos del cálculo de los límites a la representación de las administraciones públicas y entidades y corporaciones de derecho público, previstos en el artículo 36.1 de esta Ley.
+Se añade por el art. único.38 de la Ley 4/2012, de 15 de junio. Ref. BOE-A-2013-1789
