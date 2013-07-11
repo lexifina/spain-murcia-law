@@ -1,0 +1,5 @@
+Artículo 15 bis. Sociedades mercantiles.
+1. Las sociedades mercantiles creadas o participadas por la Entidad Regional de Saneamiento y Depuración de Aguas Residuales se regirán por la normativa de derecho privado aplicable a las mismas, con las especialidades que se deriven de lo establecido en la presente ley.
+2. La constitución de nuevas sociedades y la participación en otras ya existentes deberán ser autorizadas por el Consejo de Gobierno de la Comunidad Autónoma; asimismo, deberá ser autorizada por dicho órgano la enajenación de participaciones accionariales de las que sea titular la Entidad Regional de Saneamiento y Depuración de Aguas Residuales en sociedades mercantiles.
+3. La propuesta o designación, según proceda, de representantes de la Entidad Regional de Saneamiento y Depuración de Aguas Residuales en los órganos de las sociedades y entidades en que participe, corresponderá al Consejo de Administración a propuesta del presidente.
+Se añade por la disposición adicional 1.5 de la Ley 6/2013, de 8 de julio. Ref. BOE-A-2013-8990.
