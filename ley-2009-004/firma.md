@@ -1,15 +1,11 @@
 ANEXO I
 Instalaciones y actividades sujetas a autorización ambiental única
-Quedan sujetas a autorización ambiental única las actividades e instalaciones que, estando sometidas a licencia municipal de actividad, se encuentren también comprendidas alguno o algunos de los supuestos siguientes:
-1) Las actividades que deban obtener una declaración de impacto ambiental, por exigencia de esta ley o de la normativa estatal aplicable, bien porque estén sometidas directamente a evaluación ambiental de proyectos, o bien porque el órgano ambiental haya determinado, tras el trámite de decisión caso por caso, que el proyecto debe someterse a evaluación ambiental.
-Las actividades que, estando sometidas a evaluación ambiental de proyectos por figurar en el anexo III o por la legislación estatal aplicable, hayan sido evaluadas con anterioridad a la entrada en vigor de esta ley, sólo quedarán sujetas a autorización ambiental única cuando deban obtener una declaración de impacto ambiental para ejecutar modificaciones o ampliaciones de proyecto.
-2) Las instalaciones que realicen vertidos desde tierra al mar, sometidos a autorización de la Comunidad Autónoma de la Región de Murcia, regulada por la Ley 22/1988, de 28 de julio, de Costas.
-3) Las instalaciones y actividades productoras de residuos peligrosos, sometidas a autorización por el artículo 9.1 de la Ley 10/1998, de 21 de abril, de Residuos, incluyendo las productoras de residuos que no tengan tal consideración y que figuren en la lista que, en su caso, apruebe la Comunidad Autónoma por razón de las excepcionales dificultades que pudiera plantear la gestión de dichos residuos.
-Se excluyen las actividades o instalaciones que, mediante su inscripción en el registro autonómico correspondiente, adquieran el carácter de pequeños productores de residuos peligrosos.
-4) La actividades de valorización y eliminación de residuos previstas en el artículo 13.1 de la Ley 10/1998, de 21 de abril, de Residuos, así como las de recogida y el almacenamiento de residuos peligrosos, y su transporte cuando se realice asumiendo la titularidad del residuo el transportista, prevista en el artículo 22.1 de la citada ley.
-Se excluyen las actividades de gestión de residuos no peligrosos distintas a la valorización o eliminación, así como el transporte de residuos peligrosos, cuando el transportista sea un mero intermediario que realice esta actividad por cuenta de terceros, sin perjuicio de su notificación al órgano autonómico competente.
-5) Las instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo de actividades potencialmente contaminadoras de la atmósfera, recogido en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, y que figuran en dicho anexo como pertenecientes a los grupos A y B.
-6) Las actividades de ámbito supramunicipal que no estén exentas de calificación ambiental.
+Quedan sujetas a autorización ambiental única las actividades e instalaciones que, estando sometidas a licencia municipal de actividad, se encuentren comprendidas en alguno o algunos de los supuestos siguientes:
+1. Las instalaciones que realicen vertidos desde tierra al mar, sometidos a autorización de la Comunidad Autónoma de la Región de Murcia, regulada por la Ley 22/1988, de 28 de julio, de Costas.
+2. Las instalaciones de tratamiento de residuos, incluido el almacenamiento en el ámbito de la recogida en espera de tratamiento, así como la ampliación, modificación sustancial o traslado de dicha instalación, sometidas a autorización por el artículo 27.1 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados.
+3. Las instalaciones en las que se desarrollen alguna de las actividades incluidas en el catálogo de actividades potencialmente contaminadoras de la atmósfera, recogido en el anexo IV de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, y que figuran en dicho anexo como pertenecientes a los grupos A y B.
+4. Las actividades cuya instalación ocupe terrenos pertenecientes a más de un término municipal.
+Se modifica por la disposición final 2.7 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
 ANEXO II
 Actividades exentas de calificación ambiental
 a) Talleres artesanos y talleres auxiliares de construcción de albañilería, escayolistería, cristalería, electricidad, fontanería, calefacción y aire acondicionado.
@@ -178,7 +174,7 @@ a) Transformaciones de uso del suelo que impliquen eliminación de la cubierta v
 7. Instalaciones de conducción de agua a larga distancia cuando la longitud sea mayor de 10 kilómetros y la capacidad máxima de conducción sea superior a 5 metros cúbicos/segundo.
 8. Concentraciones parcelarias.
 f) Cualquier modificación o extensión de un proyecto consignado en el presente anexo, cuando dicha modificación o extensión cumple, por sí sola, los posibles umbrales establecidos en el presente anexo.
-* g) Cualquier modificación o ampliación de proyectos que figuran en este anexo, ya autorizados, ejecutados o en proceso de ejecución (modificación o ampliación no recogida en este apartado A) que puedan tener efectos adversos significativos sobre el medio ambiente por suponer un incremento de más del 50 por 100 de emisiones a la atmósfera, de vertidos a cauces públicos o al litoral, de generación de residuos, de utilización de recursos naturales o de afección a áreas de especial protección designadas en aplicación de las Directivas 79/409/CEE del Consejo, de 2 de abril de 1979, y 92/43/CEE del Consejo, de 21 de mayo de 1992, o a humedales incluidos en la lista del Convenio Ramsar.
+* g) Cualquier modificación o ampliación de proyectos que figuran en el apartado A de este anexo, ya autorizados, ejecutados o en proceso de ejecución (modificación o ampliación no recogida en este apartado A) que puedan tener efectos adversos significativos sobre el medio ambiente por suponer un incremento de más del 50% de emisiones a la atmósfera, de vertidos a cauces públicos o al litoral, de generación de residuos, de utilización de recursos naturales o de afección a áreas de especial protección designadas en aplicación de las directivas 79/409/CEE del Consejo, de 2 de abril de 1979, y 92/43/CEE del Consejo, de 2 de abril de 1979, y 92/43/CEE del Consejo, de 21 de mayo de 1992, o a humedales incluidos en la lista del Convenio Ramsar.
 Grupo 10. Proyectos urbanísticos.
 * a) Los proyectos de planes parciales o especiales previstos (incluidos los relativos a zonas industriales, y a urbanizaciones, complejos hoteleros y construcciones asociadas, comprendiendo la construcción de centros comerciales y aparcamientos), cuando requieran una evaluación conforme a la normativa reguladora de la Red Natura 2000 o se desarrollen en humedales incluidos en la lista del Convenio de Ramsar, o cuando el planeamiento general lo establezca expresamente.
 * b) Los proyectos de obras de urbanización (incluidos los relativos a zonas industriales y a urbanizaciones, complejos hoteleros y construcciones asociadas, comprendiendo la construcción de centros comerciales y aparcamientos), cuando requieran una evaluación conforme a la normativa reguladora de la Red Natura 2000 o se desarrollen en humedales incluidos en la lista del Convenio de Ramsar, o cuando el planeamiento general o de desarrollo lo establezca expresamente.
@@ -232,7 +228,7 @@ d) Instalaciones de oleoductos y gasoductos (proyectos no incluidos en el aparta
 e) Almacenamiento de gas natural sobre el terreno. Tanques con capacidad unitaria superior a 200 toneladas.
 f) Almacenamiento subterráneo de gases combustibles. Instalaciones con capacidad superior a 100 metros cúbicos.
 g) Parques eólicos no incluidos en el apartado A.
-h) Instalaciones industriares para la producción de electricidad, vapor y agua caliente con potencia térmica superior a 100 MW.
+h) Instalaciones industriales para la producción de electricidad, vapor y agua caliente con potencia térmica superior a 20MW.
 i) Instalaciones para la fabricación de cemento o clinker, cal, vidrio, fundición de sustancias minerales, productos cerámicos, no incluidas en el Anexo III A, Grupo 4, siempre y cuando se den de forma simultánea las siguientes condiciones:
 1. Que esté situada fuera de polígonos industriales.
 2. Que se encuentre a menos de 500 metros de una zona residencial.
@@ -249,7 +245,7 @@ h) Embutido de fondo mediante explosivos o expansores del terreno.
 Grupo 6. Industria química, petroquímica, textil y papelera.
 a) Tratamiento de productos intermedios y producción de productos químicos.
 b) Producción de pesticidas y productos farmacéuticos, pinturas y barnices, elastómeros y peróxidos.
-c) Instalaciones de almacenamiento de productos petroquímicos y químicos (proyectos no Incluidos en el apartado A).
+c) Instalaciones industriales de almacenamiento de productos petroquímicos y químicos (proyectos no incluidos en el apartado A).
 d) Fabricación y tratamiento de productos a base de elastómeros.
 Grupo 7. Proyectos de Infraestructuras.
 a) Construcción de líneas de ferrocarril, de instalaciones de trasbordo intermodal y de terminales intermodales (proyectos no incluidos en el apartado A).
@@ -283,6 +279,7 @@ l) Los proyectos que no estando recogidos en el apartado A ni B cuando así lo r
 * 2. El resto de planes parciales o especiales (incluidos los correspondientes a urbanizaciones, complejos hoteleros y construcciones asociadas, comprendiendo la construcción de centros comerciales y aparcamientos), no comprendidos en el apartado A de este anexo, así como sus modificaciones, cuyo ámbito de actuación sea superior a 50 Hectáreas. No obstante, se excluyen de este supuesto los planes parciales y especiales previstos en el planeamiento general adaptado al Texto Refundido de la Ley del Suelo de la Región de Murcia y sometido a evaluación ambiental, así como sus modificaciones.
 * b) Los proyectos de obras de urbanización, relativos a zonas industriales, no incluidos en el apartado A de este anexo, cuyo ámbito de actuación sea superior a 100 Hectáreas.
 El fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impedirá la aplicación de los umbrales establecidos en este anexo, a cuyos efectos se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifican los apartados A), grupo 9.g) y B), grupos 4.h) y 6.c), por la disposición final 2.8 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
 ANEXO IV
 Aplicación del régimen de evaluación ambiental a los instrumentos de planeamiento urbanístico
 1. El régimen de evaluación ambiental de planes o programas será de aplicación a los instrumentos de planeamiento urbanístico en los términos establecidos en este anexo, con la excepción de:
@@ -294,7 +291,7 @@ Se entiende por planes que establecen el uso de zonas de reducido ámbito territ
 3. Quedan también sujetos directamente a evaluación ambiental de planes y programas los siguientes instrumentos de planeamiento urbanístico, aunque no se encuentren comprendidos en los supuestos generales de sujeción del artículo 104:
 a) Los planes generales municipales de ordenación, sus revisiones y adaptaciones, así como las modificaciones estructurales de planeamiento general que supongan transformación de una superficie de terreno superior a 50 hectáreas.
 b) Los planes parciales de uso industrial no previstos en el planeamiento general, y el resto de planes parciales no previstos cuando así lo exija expresamente el planeamiento general.
-c) Los planes especiales que afecten al suelo no urbanizable protegido.
+c) (Suprimido).
 4. Quedan excluidos de evaluación ambiental de planes y programas, sin que sea precisa la intervención del órgano ambiental, los tipos de instrumentos de planeamiento urbanístico que se enumeran a continuación, siempre que no se encuentren comprendidos en los supuestos generales de sujeción del artículo 104:
 a) Las modificaciones no estructurales de planeamiento general.
 b) Las modificaciones estructurales de planeamiento general y los programas de actuación urbanística en planeamientos no adaptados a la legislación urbanística vigente, siempre que no impliquen transformación de una superficie de terreno superior a 50 hectáreas, ni afecten a suelos potencialmente contaminados o a áreas declaradas por algún tipo de riesgo, ni incluyan áreas afectadas por limitaciones sustanciales de la legislación del ruido, que no pueda resolverse por la adecuada aplicación de medidas correctoras.
@@ -303,8 +300,9 @@ d) Los planes especiales no previstos en el planeamiento general, así como sus 
 En el caso de planes especiales de desarrollo de sistemas generales, cuando no impliquen transformación de una superficie de terreno superior a 50 hectáreas, ni afecten a suelos potencialmente contaminados o a áreas declaradas por algún tipo de riesgo, ni incluyan áreas afectadas por limitaciones sustanciales de la legislación del ruido, que no pueda resolverse por la adecuada aplicación de medidas correctoras.
 Cuando se trate de planes especiales de reforma interior y rehabilitación, que no afecten a suelos potencialmente contaminados o áreas declaradas por algún tipo de riesgo.
 En el caso de planes especiales de ordenación y protección de conjuntos históricos en suelo urbano, planes especiales de ordenación de núcleos rurales y planes especiales de adecuación urbanística sobre suelo urbano.
-5. Para el resto de instrumentos de planeamiento urbanístico, que no queden sometidos o excluidos de evaluación ambiental de planes y programas según las reglas anteriores, será el órgano ambiental quien determine si han de ser objeto de evaluación de planes y programas, de la forma establecida en esta ley.
+5. Para los planes especiales que afecten al suelo no urbanizable protegido, así como para el resto de instrumentos de planeamiento urbanístico que no queden sometidos o excluidos de evaluación ambiental de planes y programas según las reglas anteriores, será el órgano ambiental quien determine si han de ser objeto de evaluación de planes y programas, de la forma establecida en esta ley.
 6. Cuando la existencia de otros instrumentos de planeamiento urbanístico, aprobados o en tramitación en el mismo o distinto municipio, o bien otras circunstancias concurrentes, permitan deducir la existencia de fraccionamiento, el órgano promotor someterá el instrumento de planeamiento al trámite de evaluación ambiental de planes y programas, y ésta se llevará a cabo tomando en consideración la totalidad de los instrumentos de planeamiento a que dio lugar el fraccionamiento.
+Se modifican los apartados 3 y 5, por la disposición final 2.9 y 10 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
 Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
 Murcia, 14 de mayo de 2009.
 El Presidente,
