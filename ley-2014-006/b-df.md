@@ -1,0 +1,2 @@
+Disposiciones final primera. Desarrollo reglamentario.
+Se autoriza al Consejo de Gobierno para dictar las disposiciones reglamentarias que sean precisas para el desarrollo de la presente ley.
