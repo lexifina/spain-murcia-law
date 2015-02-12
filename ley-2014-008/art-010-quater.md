@@ -1,0 +1,3 @@
+Artículo 10 quáter. Colaboración interadministrativa.
+Los distintos departamentos de la Administración pública regional y las entidades locales con las que se haya suscrito el oportuno convenio de colaboración proporcionarán a la Unidad de Aceleración de Inversiones la información que le sea requerida sobre el estado de tramitación de los procedimientos así como la colaboración que se les requiera, con la máxima celeridad y eficacia, y le comunicarán las diferentes actuaciones al mismo tiempo que a los interesados.
+Se añade por el art. único de la Ley 1/2015, de 6 de febrero. Ref. BOE-A-2015-1951

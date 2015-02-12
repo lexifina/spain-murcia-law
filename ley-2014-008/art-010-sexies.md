@@ -1,0 +1,5 @@
+Artículo 10 sexies. Efectos vinculados a la gestión de la Unidad de Aceleración de Inversiones.
+1. Los proyectos empresariales gestionados por la Unidad de Aceleración de Inversiones tendrán, en sus distintos trámites, carácter urgente y prioritario para los órganos de la Administración pública regional, de manera que se agilicen su implantación y puesta en marcha.
+2. Los plazos ordinarios de los trámites administrativos previstos en las leyes, decretos y órdenes regionales, se reducirán a la mitad cuando afecten a los proyectos de inversión gestionados por la Unidad de Aceleración de Inversiones, salvo los relativos a la presentación de solicitudes y recursos, a los procedimientos de concurrencia competitiva, los de naturaleza fiscal y los de información pública.
+3. Estos efectos serán aplicables en los plazos de aquellos trámites, licencias e informes de las corporaciones locales regulados en las leyes regionales.
+Se añade por el art. único de la Ley 1/2015, de 6 de febrero. Ref. BOE-A-2015-1951
