@@ -1,0 +1,2 @@
+Disposición derogatoria. Normativa derogada.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley, y en concreto los preceptos relativos a la habitabilidad en la Ley 5/1995, de 7 de abril, de condiciones de habitabilidad en edificios de viviendas y promociones de la accesibilidad general de la Comunidad Autónoma de la Región de Murcia, sin perjuicio de lo previsto en la disposición transitoria primera y la vigencia de la Comisión Regional para la Habitabilidad y Accesibilidad.
