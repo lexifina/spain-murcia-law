@@ -282,26 +282,8 @@ El fraccionamiento de proyectos de igual naturaleza y realizados en el mismo esp
 Se modifican los apartados A), grupo 9.g) y B), grupos 4.h) y 6.c), por la disposición final 2.8 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
 ANEXO IV
 Aplicación del régimen de evaluación ambiental a los instrumentos de planeamiento urbanístico
-1. El régimen de evaluación ambiental de planes o programas será de aplicación a los instrumentos de planeamiento urbanístico en los términos establecidos en este anexo, con la excepción de:
-a) Los planes parciales y especiales previstos en el planeamiento general, así como sus modificaciones, que se someterán a evaluación ambiental de proyectos en los supuestos establecidos en el Anexo III.
-b) Los estudios de detalle, a los que no se considera de aplicación el régimen de evaluación ambiental de planes o programas.
-2. Los instrumentos de planeamiento urbanístico a los que les resulta de aplicación este Anexo, quedan sometidos a evaluación ambiental de planes y programas cuando se encuentren en alguno de los supuestos generales de sujeción del artículo 104. A estos efectos:
-Se entiende por modificaciones menores las modificaciones no estructurales de los instrumentos de planeamiento urbanístico.
-Se entiende por planes que establecen el uso de zonas de reducido ámbito territorial, aquellos que supongan transformación de una superficie de terreno no superior a 50 hectáreas.
-3. Quedan también sujetos directamente a evaluación ambiental de planes y programas los siguientes instrumentos de planeamiento urbanístico, aunque no se encuentren comprendidos en los supuestos generales de sujeción del artículo 104:
-a) Los planes generales municipales de ordenación, sus revisiones y adaptaciones, así como las modificaciones estructurales de planeamiento general que supongan transformación de una superficie de terreno superior a 50 hectáreas.
-b) Los planes parciales de uso industrial no previstos en el planeamiento general, y el resto de planes parciales no previstos cuando así lo exija expresamente el planeamiento general.
-c) (Suprimido).
-4. Quedan excluidos de evaluación ambiental de planes y programas, sin que sea precisa la intervención del órgano ambiental, los tipos de instrumentos de planeamiento urbanístico que se enumeran a continuación, siempre que no se encuentren comprendidos en los supuestos generales de sujeción del artículo 104:
-a) Las modificaciones no estructurales de planeamiento general.
-b) Las modificaciones estructurales de planeamiento general y los programas de actuación urbanística en planeamientos no adaptados a la legislación urbanística vigente, siempre que no impliquen transformación de una superficie de terreno superior a 50 hectáreas, ni afecten a suelos potencialmente contaminados o a áreas declaradas por algún tipo de riesgo, ni incluyan áreas afectadas por limitaciones sustanciales de la legislación del ruido, que no pueda resolverse por la adecuada aplicación de medidas correctoras.
-c) Los planes parciales no previstos en el planeamiento general, así como sus modificaciones, salvo que el planeamiento general exija expresamente el sometimiento a evaluación ambiental, o se trate de planes de uso industrial, o que impliquen transformación de una superficie de terreno superior a 50 hectáreas, o que afecten a suelos potencialmente contaminados o a áreas declaradas por algún tipo de riesgo.
-d) Los planes especiales no previstos en el planeamiento general, así como sus modificaciones, en los siguientes supuestos:
-En el caso de planes especiales de desarrollo de sistemas generales, cuando no impliquen transformación de una superficie de terreno superior a 50 hectáreas, ni afecten a suelos potencialmente contaminados o a áreas declaradas por algún tipo de riesgo, ni incluyan áreas afectadas por limitaciones sustanciales de la legislación del ruido, que no pueda resolverse por la adecuada aplicación de medidas correctoras.
-Cuando se trate de planes especiales de reforma interior y rehabilitación, que no afecten a suelos potencialmente contaminados o áreas declaradas por algún tipo de riesgo.
-En el caso de planes especiales de ordenación y protección de conjuntos históricos en suelo urbano, planes especiales de ordenación de núcleos rurales y planes especiales de adecuación urbanística sobre suelo urbano.
-5. Para los planes especiales que afecten al suelo no urbanizable protegido, así como para el resto de instrumentos de planeamiento urbanístico que no queden sometidos o excluidos de evaluación ambiental de planes y programas según las reglas anteriores, será el órgano ambiental quien determine si han de ser objeto de evaluación de planes y programas, de la forma establecida en esta ley.
-6. Cuando la existencia de otros instrumentos de planeamiento urbanístico, aprobados o en tramitación en el mismo o distinto municipio, o bien otras circunstancias concurrentes, permitan deducir la existencia de fraccionamiento, el órgano promotor someterá el instrumento de planeamiento al trámite de evaluación ambiental de planes y programas, y ésta se llevará a cabo tomando en consideración la totalidad de los instrumentos de planeamiento a que dio lugar el fraccionamiento.
+(Derogado).
+Se deroga por la disposición derogatoria 1.b) de la Ley 13/2015, de 30 de marzo. Ref. BOE-A-2015-4790.
 Se modifican los apartados 3 y 5, por la disposición final 2.9 y 10 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
 Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan y a los Tribunales y Autoridades que corresponda que la hagan cumplir.
 Murcia, 14 de mayo de 2009.

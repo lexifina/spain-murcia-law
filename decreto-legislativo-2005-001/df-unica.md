@@ -1,2 +1,0 @@
-Disposición final única.
-Se faculta al Consejo de Gobierno de la Comunidad Autónoma de la Región de Murcia para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Ley.
