@@ -1,0 +1,5 @@
+Artículo 25 octies. Participación de los usuarios en el coste de los Servicios concertados.
+1. Será de aplicación en todo caso, la normativa sobre precios públicos en el supuesto de servicios para los que esté prevista la participación de los usuarios en el coste del servicio objeto de concierto.
+2. Las entidades concertadas no podrán cobrar a las personas usuarias cantidad alguna distinta al precio público, por las prestaciones propias del sistema del servicio de que se trate.
+3. El cobro de cualquier otra cantidad por servicios complementarios al margen de los precios estipulados deberá ser comunicado a la Administración Pública competente en la prestación del servicio objeto de concierto.
+Se añade por el art. único.8 del Decreto-ley 2/2015, de 6 de agosto. Ref. BORM-s-2015-90553
