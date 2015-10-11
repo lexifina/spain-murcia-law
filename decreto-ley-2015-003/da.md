@@ -1,0 +1,3 @@
+Disposición adicional.
+El artículo 3.1 de la Ley 1/2002, de 20 de marzo, de adecuación de los procedimientos de la Administración Regional de Murcia a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, queda redactado como sigue:
+«En los procedimientos para la concesión de ayudas, pensiones y subvenciones públicas, con cargo a créditos de la Comunidad Autónoma, incluidas las prestaciones y servicios del sistema de la dependencia en la región de Murcia, el plazo máximo para notificar la resolución expresa, cuando las normas reguladoras no fijen otro menor, será de seis meses. Transcurrido el plazo máximo para resolver y notificar, el sentido del silencio será desestimatorio».
