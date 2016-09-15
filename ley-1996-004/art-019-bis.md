@@ -1,0 +1,4 @@
+Artículo 19 bis.
+En situaciones de sobreendeudamiento derivado de relaciones de consumo, se establece un procedimiento de mediación al que se someterán las entidades adheridas al convenio que al efecto será redactado según lo establecido en el desarrollo reglamentario de esta ley y se sustanciará ante las comisiones de sobreendeudamiento reguladas por su legislación específica. Si las comisiones de sobreendeudamiento no alcanzan un acuerdo entre el consumidor y los acreedores, queda abierta la correspondiente vía judicial para hacer efectivo lo dispuesto por este código y la legislación complementaria.
+Téngase en cuenta que este artículo añadido por el art. 2.2 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647. entra en vigor el 15 de septiembre de 2016, según establece la disposición final 4 de la citada ley.
+Se añade por el art. 2.2 de la Ley 10/2016, de 7 de junio. Ref. BOE-A-2016-6647.
