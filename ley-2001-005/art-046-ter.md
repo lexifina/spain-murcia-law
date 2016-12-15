@@ -1,0 +1,6 @@
+Artículo 46 ter. Provisión de puestos de supervisor de área y supervisores de unidad de enfermería.
+1. Los puestos de supervisor de área y de unidad de enfermería se proveerán por concurso de méritos.
+2. Quienes accedan a un puesto de trabajo a través de este procedimiento obtendrán un nombramiento por cuatro años, que se irá renovando de manera automática por periodos sucesivos de cuatro años, salvo que el titular de la gerencia a la que se encuentre adscrito el puesto de trabajo solicite al director gerente del Servicio Murciano de Salud, con una antelación mínima de dos meses a la fecha de conclusión del nombramiento inicial o sucesivo, que se realice la evaluación de la actividad desarrollada por interesado en el período correspondiente para determinar si procede prorrogar el nombramiento.
+3. En tal caso, se tramitará un procedimiento de carácter contradictorio, que culminará mediante una resolución del director gerente del Servicio Murciano de Salud en la que se acordará la renovación del nombramiento o el cese del mismo.
+4. El interesado, mientras ocupe el puesto de supervisor de área o de unidad, de acuerdo al procedimiento descrito en este artículo, contará con la reserva de la plaza básica que tuviera asignada con carácter definitivo.
+Se añade por el art. único.4 de la Ley 15/2016, de 12 de diciembre. Ref. BOE-A-2016-12610.
