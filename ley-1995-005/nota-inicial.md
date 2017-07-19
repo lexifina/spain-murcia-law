@@ -1,1 +1,2 @@
-Se derogan los preceptos relativos a la habitabilidad, sin perjuicio de lo previsto en la disposición transitoria 1 y la vigencia de la Comisión Regional para la Habitabilidad y Accesibilidad por la disposición derogatoria de la Ley 6/2015, de 24 de marzo. Ref. BOE-A-2015-4747#dd.
+Se deroga por la disposición derogatoria 1 de la Ley 4/2017, de 27 de junio. Ref. BOE-A-2017-9488#dd
+Véase sobre el período transitorio de aplicación de esta norma la disposición transitoria 1 de la mencionada Ley
