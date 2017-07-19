@@ -1,0 +1,2 @@
+Disposición adicional única. Accesibilidad y diseño para personas sordas, con discapacidad auditiva y sordociegas.
+Los aspectos de accesibilidad universal de las personas sordas, con discapacidad auditiva y sordo ciegas se ajustarán a lo establecido en la normativa estatal reguladora de las lenguas de signos españolas, y con su correspondiente desarrollo reglamentario en lo que se refiere a los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y sordociegas.
