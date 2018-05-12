@@ -1,0 +1,7 @@
+Disposión transitoria primera. Comisión Gestora.
+La Coordinadora Estatal de Ciencias Ambientales, con su delegación en la Región de Murcia designará, en el plazo de seis meses a contar desde la entrada en vigor de esta ley, una Comisión Gestora que estará compuesta por siete miembros, y que procederá a:
+a) Elaborar el censo profesional que podrá participar en la Asamblea constituyente del Colegio, de acuerdo con el ámbito personal del mismo definido en el artículo 3 de la presente ley.
+b) Preparar un borrador de proyecto de estatutos colegiales.
+c) Aprobar el procedimiento de participación de los profesionales censados en la preparación, a partir del borrador, del proyecto de estatutos que habrá de someterse a la aprobación de la Asamblea constituyente del Colegio. Al menos con un mes de antelación a la celebración de esta, el texto de proyecto deberá estar a disposición de todos los integrantes del censo electoral.
+d) Aprobar el procedimiento de convocatoria y desarrollo de la Asamblea constituyente, el cual se pondrá a disposición de todos los profesionales censados.
+e) Convocar la Asamblea constituyente del Colegio, que deberá celebrarse en el plazo de un año desde la entrada en vigor de esta ley. La convocatoria deberá publicarse con una antelación mínima de un mes en el Boletín Oficial de la Región de Murcia y en, al menos, dos de los diarios de mayor difusión en esta Comunidad Autónoma.

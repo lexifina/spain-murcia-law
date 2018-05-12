@@ -1,0 +1,2 @@
+Disposión transitoria cuarta. Inscripción y publicación de Estatutos.
+Los Estatutos definitivos del Colegio, una vez aprobados, junto con el certificado del acta de la Asamblea constituyente, deberán remitirse, en el plazo de un mes, a la consejería competente en materia de colegios profesionales para que, previa calificación de legalidad, sean inscritos en el Registro de Colegios Profesionales de la Comunidad Autónoma de la Región de Murcia y, posteriormente, publicados en el «Boletín Oficial de la Región de Murcia».
