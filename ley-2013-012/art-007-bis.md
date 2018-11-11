@@ -1,0 +1,6 @@
+Artículo 7 bis. Proyectos de interés turístico.
+1. Con la finalidad de impulsar la inversión en complejos e infraestructuras turísticas, y sin perjuicio de lo previsto en la legislación de proyectos estratégicos, el organismo competente en materia de turismo podrá declarar el interés turístico de los proyectos que contribuyan a la desestacionalización o la mejora y diversificación de la oferta turística, especialmente en los municipios costeros.
+2. El promotor de la actuación, que podrá ser de nueva implantación o de renovación y modernización, deberá solicitar de forma motivada su declaración, adjuntando la documentación descriptiva necesaria para apreciar el alcance de la inversión, que será resuelta en el plazo máximo de un mes.
+3. Los proyectos declarados de interés turístico tendrán en su tramitación un carácter prioritario y urgente para toda la Administración pública regional, reduciéndose a la mitad los plazos ordinarios de los trámites administrativos previstos en la normativa regional que les sean de aplicación, salvo los relativos a la presentación de solicitudes y recursos.
+4. Esta misma regulación tendrá efecto en los plazos de aquellas tramitaciones, licencias e informes de las corporaciones locales regulados por las leyes regionales.
+Se añade por el art. 7.2 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-7

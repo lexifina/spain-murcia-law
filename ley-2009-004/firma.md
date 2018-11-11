@@ -1,22 +1,22 @@
 ANEXO I
 Actividades sometidas a licencia de actividad
-1. Las actividades sometidas a autorización ambiental integrada.
-2. Las actividades sometidas a alguna autorización ambiental sectorial.
-3. Las actividades económicas privadas cuyo proyecto esté sometido a evaluación de impacto ambiental ordinario o simplificado.
-4. Las actividades que se desarrollen en inmuebles de interés cultural.
-5. Los espectáculos públicos y actividades recreativas, cuando lo establezca su normativa específica.
-6. Las actividades ganaderas que no estando sometidas a autorización ambiental autonómica ni a evaluación de impacto ambiental, dispongan al menos de:
-– Reproductores vacunos: 50 cabezas.
-– Vacunos de cebo: 100 cabezas.
-– Reproductores de ovinos y/o caprinos: 300 cabezas.
-– Cebaderos de ovino y/o caprino: 750 cabezas.
-– Cerdas reproductoras: 250 cabezas.
-– Cerdos de cebo: 1000 cabezas.
-– Ganado equino (caballos, asnos, mulas): 50 cabezas.
-– Gallinas: 3.000 gallinas.
-– Pollos de engorde: 8.000 cabezas.
-– Otras aves de corral (perdices, codornices, patos): 4.000 cabezas.
-– Conejas reproductoras: 600 cabezas.
+1. Las actividades sometidas a alguna autorización ambiental sectorial.
+2. Las actividades económicas privadas cuyo proyecto esté sometido a evaluación ambiental ordinaria o simplificado.
+3. Las actividades que se desarrollen en inmuebles de interés cultural.
+4. Los espectáculos públicos y actividades recreativas, cuando lo establezca su normativa específica.
+5. Las actividades ganaderas que no estando sometidas a autorización ambiental autonómica ni a evaluación de impacto ambiental, dispongan al menos de:
+• Reproductores vacunos: 50 cabezas.
+• Vacunos de cebo: 100 cabezas.
+• Reproductores de ovinos y/o caprinos: 300 cabezas.
+• Cebaderos de ovino y/o caprino: 750 cabezas.
+• Cerdas reproductoras: 250 cabezas.
+• Cerdos de cebo: 1000 cabezas.
+• Ganado equino (caballos, asnos, mulas): 50 cabezas.
+• Gallinas: 3.000 gallinas.
+• Pollos de engorde: 8.000 cabezas.
+• Otras aves de corral (perdices, codornices, patos): 4.000 cabezas.
+• Conejas reproductoras: 600 cabezas.
+Se modifica por el art. 23.19 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
 Se modifica por el art. 3.18 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
 Se modifica por el art. 3.18 del Decreto-ley 2/2016, de 20 de abril. Ref. BORM-s-2016-90341.
 Se modifica por la disposición final 2.7 de la Ley 2/2014, de 21 de marzo. Ref. BOE-A-2014-3719.
