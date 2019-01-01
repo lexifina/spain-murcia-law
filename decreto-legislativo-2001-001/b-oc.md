@@ -1,3 +1,6 @@
-Disposición adicional octava. Personal estatutario: Grupos de titulación y Categorías.
-(Derogada).
+Disposición adicional octava. Medidas en materia de conciliación del personal, en relación con el permiso de paternidad.
+El personal que solicite el permiso de paternidad por el nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija, establecido en el artículo 49.c) del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, tendrá los siguientes derechos, previa solicitud del progenitor que vaya a disfrutar del permiso:
+a) A su inicio en una fecha posterior al hecho causante, siempre que sea antes de la finalización del correspondiente permiso o de la suspensión del contrato por parto, adopción o acogimiento del otro progenitor, o inmediatamente después de su finalización.
+b) A disfrutar la última semana de dicho permiso en cualquier momento dentro de los nueve meses siguientes a la fecha del hecho causante, cuando así lo solicite, al inicio del permiso, el progenitor que vaya a disfrutar del mismo, y así se le autorice.
+Se añade por la disposición final 2.5 de la Ley 14/2018, de 26 de diciembre. Ref. BOE-A-2019-2039
 Se deroga por la disposición derogatoria de la Ley 5/2001, de 5 de diciembre. Ref. BORM-s-2001-90010#dd
