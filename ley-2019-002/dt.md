@@ -1,0 +1,2 @@
+Disposición transitoria. Regularización de senderos señalizados existentes antes de la entrada en vigor de esta ley.
+La Federación de Montañismo de la Región de Murcia y la Federación de Ciclismo de la Región de Murcia dispondrán de un plazo de tres años para tramitar la autorización de senderos homologados inscritos o reconocidos con anterioridad a la fecha de entrada en vigor de la presente ley y que forman parte de su Registro de Senderos de la Región de Murcia.
