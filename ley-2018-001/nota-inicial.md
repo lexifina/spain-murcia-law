@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BORM núm. 114, de 19 de mayo de 2018. Ref. BORM-s-2018-90546
+Norma derogada con efectos desde el 28 de diciembre de 2019, salvo las disposiciones final 2 y adicional 1 y el Anexo V, por la disposición derogatoria única.1 del Decreto-ley 2/2019, de 26 de diciembre. Ref. BORM-s-2019-90599#dd
