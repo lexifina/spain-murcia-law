@@ -1,0 +1,26 @@
+Disposición adicional decimocuarta. Beneficios fiscales aplicables a las tasas de la Comunidad Autónoma de la Región de Murcia para emprendedores, pymes y microempresas en el ejercicio 2020.
+1. En el ejercicio 2019 estarán exentos del pago de las tasas que se indican a continuación los sujetos pasivos que inicien sus actividades empresariales o profesionales, cuando el devengo se produzca durante el primer y segundo año de actividad:
+Grupo 1. Tasa sobre convocatorias, realización de pruebas y expedición de títulos.
+T120. Tasa sobre capacitación profesional en materia de transportes.
+T140. Tasa por la expedición de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias en materia de industrias, sus renovaciones y prórrogas.
+T150. Tasa por expedición de tarjetas de identidad profesional náutico pesquera.
+Grupo 3. Tasas en materia de juegos, apuestas, espectáculos públicos, turismo y deportes.
+T330. Tasa por ordenación de actividades turísticas.
+Grupo 4. Tasas en materia de obras públicas, urbanismo, costas, puertos, carreteras y transportes.
+T430. Tasa por ordenación del transporte terrestre.
+Grupo 6. Tasas en materia de ordenación e inspección de actividades industriales y comerciales.
+T610. Tasa por la ordenación de actividades e instalaciones industriales y energéticas.
+T612. Tasa por la prestación de servicios administrativos en materia audiovisual.
+T620. Tasa por realización de verificaciones y contrastes.
+T630. Tasa por diligencia de certificados de instalaciones sujetas a seguridad industrial.
+T650. Tasa por la autorización de explotaciones y aprovechamientos de recursos mineros.
+T651. Tasa por la tramitación de permisos de exploración e investigación y concesiones administrativas de explotación.
+Grupo 7. Tasas en materia de agricultura, ganadería y pesca marítima.
+T740. Tasa por gestión de servicios en materia de industrias agroalimentarias.
+T761. Tasa por concesiones o autorizaciones para instalaciones de explotación de cultivos marinos o por la realización de comprobaciones e inspecciones reglamentarias en las mismas.
+Grupo 8. Tasas en materia de sanidad.
+T810. Tasa por actuaciones administrativas de carácter sanitario.
+T830. Tasa del laboratorio regional de salud.
+2. La Administración tributaria podrá comprobar la concurrencia de los requisitos necesarios para la aplicación de la exención regulada en el apartado anterior, procediendo, en su caso, a la regularización del beneficio fiscal indebidamente aplicado en caso de incumplimiento, en los términos establecidos en la Ley 58/2003, de 17 de diciembre, General Tributaria.
+3. La presente exención no será de aplicación al supuesto regulado en el epígrafe 11) del artículo 4 de la tasa T610, «Tasa por la ordenación de actividades e instalaciones industriales y energéticas.
+Se añade por el art. 59.1 de la Ley 1/2020, de 23 de abril. Ref. BOE-A-2020-9488

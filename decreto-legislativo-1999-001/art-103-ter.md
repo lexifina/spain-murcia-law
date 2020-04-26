@@ -1,0 +1,5 @@
+Artículo 103 ter. Informes de supervisión continua.
+1. Las actuaciones de planificación, ejecución y evaluación correspondientes a la supervisión continua se regularán mediante Orden del titular de la Consejería con competencias en materia de hacienda con base en las normas de auditoría del sector público y la normativa reguladora de la ejecución de controles financieros. Tal Orden regulará, asimismo, los órganos intervinientes en esta actividad de supervisión continua y sus funciones.
+2. Los resultados de la evaluación se plasmarán en un informe sujeto a procedimiento contradictorio que, según las conclusiones que se hayan obtenido, podrá contener recomendaciones de mejora o una propuesta de transformación o supresión del organismo público o entidad. Los informes definitivos serán elevados al Consejo de Gobierno por el titular de la Consejería con competencias en materia de hacienda.
+Se añade por la disposición final 2.4 de la Ley 1/2020, de 23 de abril. Ref. BOE-A-2020-9488
+Redactado conforme a la corrección de errores publicada en el BORM núm. 145, de 25 de junio de 2020. Ref. BOE-A-2020-9796
