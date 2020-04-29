@@ -1,3 +1,0 @@
-Nuevo artículo [sic].
-La presente ley también será de aplicación a los expedientes cuyo importe de la ayuda en ningún caso sea de tal cuantía que, aisladamente o en concurrencia con otras ayudas o indemnizaciones, supere el coste real de las obras, certificado por técnico competente y ratificado por el órgano competente de la Comunidad Autónoma de conformidad con el Real Decreto-ley 6/2011. Los expedientes afectados por esta casuística y que no sean firmes en vía administrativa quedarán en suspenso hasta la aprobación de esta ley.
-Se añade por el art. único.2 de la Ley 8/2019, de 25 de julio. Ref. BOE-A-2020-3899
