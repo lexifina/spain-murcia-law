@@ -1,0 +1,2 @@
+fDisposición transitoria única. Efectos de la modificación de la Ley 13/2015, de 30 de marzo de Ordenación Territorial y Urbanística.
+Las modificaciones en el presente Decreto Ley relativas a los artículos 100 y 101 de la Ley 13/2015, de 30 de marzo, de Ordenación Territorial y Urbanística de la Región de Murcia, serán de aplicación a los expedientes en trámite iniciados con anterioridad a la entrada en vigor de este Decreto Ley.
