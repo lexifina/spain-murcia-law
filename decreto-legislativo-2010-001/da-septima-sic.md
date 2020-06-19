@@ -1,0 +1,3 @@
+Disposición adicional séptima [sic]. Bonificación de la tasa fiscal sobre los juegos de suerte, envite o azar, relativa a máquinas recreativas y de azar, correspondiente al segundo trimestre de 2020.
+Se establece una bonificación del 100% de la cuota correspondiente al segundo trimestre de 2020 de la Tasa fiscal sobre los juegos de suerte, envite o azar, relativa a máquinas recreativas y de azar a que se refiere el artículo 10 del Decreto Legislativo 1/2010, de 5 de noviembre, por el que se aprueba el Texto Refundido de las disposiciones Legales vigentes en la Región de Murcia en materia de Tributos Cedidos.
+Se añade por el art. 1.5 del Decreto-ley 7/2020, de 18 de junio. Ref. BORM-s-2020-90236#a1
