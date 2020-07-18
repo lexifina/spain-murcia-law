@@ -1,0 +1,2 @@
+Disposición adicional única. Dotación de recursos humanos.
+El Consejo de Gobierno procederá a la dotación de los recursos humanos precisos en la Consejería de Salud para poder gestionar los procedimientos sancionadores por las infracciones reguladas en este Decreto-ley. A este efecto, el Consejo de Gobierno, realizará las modificaciones precisas en los Presupuestos Generales de la Comunidad Autónoma para dotar a dicha Consejería de los recursos humanos necesarios con los fondos procedentes de la Unión Europea y la Administración del Estado para hacer frente al COVID-19.
