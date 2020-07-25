@@ -1,0 +1,2 @@
+Disposición adicional única. Tratamiento de datos personales.
+Los tratamientos de datos personales de las personas beneficiarias, y las cesiones de los mismos entre las Administraciones Públicas que resulten necesarias para la tramitación de estas ayudas, se consideran fundadas en el cumplimiento de una misión realizada en interés público, por lo que no será necesario recabar el consentimiento de aquellas.
