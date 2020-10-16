@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BORM núm. 86, de 16 de abril de 2015. Ref. BORM-s-2015-90397
+Téngase en cuenta que, con efectos de 16 de octubre de 2020, esta norma se denomina "Ley de Vivienda y Lucha contra la Ocupación de la Región de Murcia", según establece el art. 1.1 del Decreto-ley 10/2020, de 8 de octubre. Ref. BORM-s-2020-90407#a1
