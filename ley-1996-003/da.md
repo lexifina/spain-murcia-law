@@ -33,6 +33,8 @@ Se entiende por calado máximo al calado de trazado definido según la regla 4.2
 V. Eslora máxima o total
 Se considera eslora máxima o total la que figura en el «Lloyd's Register of Shipping», en la documentación del buque o, a falta de todo ello, la que resulte de la medición que la Dirección General de Transportes y Comunicaciones practique directamente.
 En el caso de embarcaciones deportivas y de recreo se tomará la máxima distancia existente entre los extremos de los elementos más salientes de proa y popa de la embarcación y sus medios auxiliares.
+V bis. Embarcación Transeúnte.
+Se considera embarcación transeúnte aquella que, sin ser de base, tiene autorizada su estancia por un periodo igual o inferior a 15 días.
 VI. Devengo o período de prestación del servicio y recargos por anulaciones
 El comienzo y el término del período de prestación del servicio coincidirá:
 Con la entrada y salida por la zona de servicio portuaria de los buques y mercancías, pesca fresca y embarcaciones deportivas y de recreo, en el caso de las tarifas T-1, T-3, T-4 y T-5, respectivamente.
@@ -153,10 +155,10 @@ Coeficiente C1:
 Con reserva de punto de amarre, 0,80.
 Sin reserva de punto de amarre, 1,00.
 Coeficiente C2:
-Atraque de costado, 1,00.
-Atraque de costado a muelle o pantalán sin servicio, 0,75.
-Atraque de punta, 0,40.
-Atraque de punta a muelle o pantalán sin servicio. 0,30.
+Atraque de costado con servicios, 0,60.
+Atraque de costado a muelle o pantalán sin servicios, 0,50.
+Atraque de punta con servicios, 0,40.
+Atraque de punta a muelle o pantalán sin servicios, 0,30.
 Abarloado a otro barco, 0,50.
 Fondeado, 0,10.
 Tarifa T-6. Almacenaje
@@ -288,4 +290,5 @@ Coeficiente C1:
 Vehículo con carga: 6,00.
 Vehículo sin carga: 3,00.
 Sin vehículo: 1,50.
+Se añade el apartado V bis a las reglas generales y se modifica la Tarifa T-5 regla Cuarta, coeficiente C-2 de las reglas particulares por el art. 1.10 y 11 del Decreto-ley 1/2021, de 6 de mayo. Ref. BORM-s-2021-90174
 Se deroga en todo aquello que haga referencia a la gestión, liquidación o recaudación de las «Tarifas por prestación de servicios portuarios llevados a cabo directamente por la Dirección General de Transportes y Comunicaciones, de la Consejería de Política Territorial y Obras Públicas». Quedan vigentes las normas contenidas en esta disposición adicional, reguladoras de los aspectos propios de régimen interior de funcionamiento de los puertos o régimen de policía de los mismos, por la disposición derogatoria única.1 de la Ley 7/1997, de 29 de octubre. Ref. BOE-A-1998-3948
