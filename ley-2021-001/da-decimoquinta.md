@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Suspensión del artículo 55.6 del Texto Refundido de la Ley de Hacienda de la Región de Murcia.
+En el caso de que la Comunidad Autónoma de la Región de Murcia tuviese que formular un plan económico-financiero de reequilibrio, conforme a lo dispuesto en la normativa y acuerdos sobre estabilidad presupuestaria, se suspenderá la vigencia de lo dispuesto en el artículo 55.6 del Texto Refundido de la Ley de Hacienda de la Región de Murcia, aprobado por Decreto Legislativo 1/1999, de 2 de diciembre.
