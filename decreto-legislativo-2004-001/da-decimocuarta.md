@@ -1,5 +1,5 @@
-Disposición adicional decimocuarta. Beneficios fiscales aplicables a las tasas de la Comunidad Autónoma de la Región de Murcia para emprendedores, pymes y microempresas en el ejercicio 2020.
-1. En el ejercicio 2019 estarán exentos del pago de las tasas que se indican a continuación los sujetos pasivos que inicien sus actividades empresariales o profesionales, cuando el devengo se produzca durante el primer y segundo año de actividad:
+Disposición adicional decimocuarta. Beneficios fiscales aplicables a las tasas de la Comunidad Autónoma de la Región de Murcia para emprendedores, pymes y microempresas en los ejercicios 2020 y 2021.
+1. En los ejercicios 2020 y 2021 estarán exentos del pago de las tasas que se indican a continuación los sujetos pasivos que inicien sus actividades empresariales o profesionales, cuando el devengo se produzca durante el primer y segundo año de actividad:
 Grupo 1. Tasa sobre convocatorias, realización de pruebas y expedición de títulos.
 T120. Tasa sobre capacitación profesional en materia de transportes.
 T140. Tasa por la expedición de documentos que acrediten aptitud o capacidad para el ejercicio de actividades reglamentarias en materia de industrias, sus renovaciones y prórrogas.
@@ -23,4 +23,5 @@ T810. Tasa por actuaciones administrativas de carácter sanitario.
 T830. Tasa del laboratorio regional de salud.
 2. La Administración tributaria podrá comprobar la concurrencia de los requisitos necesarios para la aplicación de la exención regulada en el apartado anterior, procediendo, en su caso, a la regularización del beneficio fiscal indebidamente aplicado en caso de incumplimiento, en los términos establecidos en la Ley 58/2003, de 17 de diciembre, General Tributaria.
 3. La presente exención no será de aplicación al supuesto regulado en el epígrafe 11) del artículo 4 de la tasa T610, «Tasa por la ordenación de actividades e instalaciones industriales y energéticas.
+Se modifica por el art. 60.1 de la Ley 1/2021, de 23 de junio. Ref. BOE-A-2021-21313#a6-2
 Se añade por el art. 59.1 de la Ley 1/2020, de 23 de abril. Ref. BOE-A-2020-9488
