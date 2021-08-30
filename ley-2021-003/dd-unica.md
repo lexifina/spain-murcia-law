@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Quedan derogadas, sin perjuicio de lo dispuesto en las disposiciones transitorias, cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley, y de forma expresa, la Ley 3/2003, de 10 de abril, de Sistema de Servicios Sociales de la Región de Murcia.
+2. Hasta que se proceda a la aprobación del desarrollo reglamentario de la presente ley, serán de aplicación las normas actualmente vigentes dictadas en desarrollo de la Ley 3/2003, de 10 de abril, en lo que no sean contrarias a lo dispuesto en la presente ley y en tanto no sean sustituidas o derogadas.
