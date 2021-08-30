@@ -1,4 +1,0 @@
-Artículo 25 decies. Medidas para la transparencia.
-1. La entidades sin ánimo de lucro que sometan sus relaciones a las figuras de convenio o concierto reguladas en la presente ley, harán constar en los documentos que reglamentariamente se determine, todas las retribuciones dinerarias o en especie asignadas a los puestos de trabajo anualmente mientras persista el contrato. Las empresas con ánimo de lucro deberán someterse al mismo control cuando usen estos modelos contractuales.
-2. La Administración Regional hará pública, en el Portal de la Transparencia, una relación de los convenios y conciertos celebrados con las entidades que mantendrá actualizada mensualmente. Esta relación contendrá los servicios prestados, importes, vencimientos y convocatorias para la prestación de éstos.
-Se añade por el art. único.10 de la Ley 16/2015, de 9 de noviembre. Ref. BOE-A-2015-12822
