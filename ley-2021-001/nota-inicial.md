@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BORM núm. 272 de 24 de noviembre de 2021. Ref. BORM-s-2021-90411
+Téngase en cuenta que los presentes presupuestos quedan prorrogados, con efectos desde el 1 de enero de 2022 hasta la entrada en vigor de la Ley de Presupuestos Generales para 2022, por Orden de 20 de diciembre de 2021. Ref. BORM-s-2021-90445
