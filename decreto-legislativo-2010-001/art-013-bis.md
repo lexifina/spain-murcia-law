@@ -1,0 +1,6 @@
+Artículo 13 Bis. Deducción por aportaciones a proyectos de excepcional interés público regional.
+De acuerdo con lo previsto en el artículo 47.1.c) de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, se establece una deducción en la cuota íntegra del impuesto del 100% del importe en dinero destinado durante el año posterior a la fecha de devengo a proyectos de excepcional interés público regional.
+Esta deducción se aplicará con posterioridad a las deducciones y bonificaciones reguladas por la normativa del Estado.
+El Consejo de Gobierno determinará los proyectos que serán considerados de excepcional interés público regional a los efectos de la presente deducción, así como la duración de los citados proyectos y las líneas básicas de las actuaciones que den derecho a la presente deducción.
+Para la aplicación del beneficio fiscal se exigirá la acreditación de las aportaciones deducibles, que se justificarán mediante certificación expedida por la entidad beneficiaria.
+Se añade por el art. 57.3 de la Ley 1/2022, de 24 de enero. Ref. BOE-A-2022-4518
