@@ -1,7 +1,7 @@
 ANEXO I
 Actividades sometidas a licencia de actividad
 1. Las actividades sometidas a alguna autorización ambiental sectorial.
-2. Las actividades económicas privadas cuyo proyecto esté sometido a evaluación de impacto ambiental ordinario o simplificado, excepto aquéllas que a su vez estén sometidas a autorización ambiental integrada.
+2. Las actividades económicas privadas cuyo proyecto esté sometido a evaluación de impacto ambiental ordinario o simplificado, excepto aquellas que a su vez estén sometidas a autorización ambiental integrada.
 3. Las actividades que se desarrollen en inmuebles de interés cultural.
 4. Los espectáculos públicos y actividades recreativas, cuando lo establezca su normativa específica.
 5. Las actividades ganaderas que no estando sometidas a autorización ambiental autonómica ni a evaluación de impacto ambiental, dispongan al menos de:
@@ -16,6 +16,7 @@ Actividades sometidas a licencia de actividad
 • Pollos de engorde: 8.000 cabezas.
 • Otras aves de corral (perdices, codornices, patos): 4.000 cabezas.
 • Conejas reproductoras: 600 cabezas.
+Se modifica el apartado 2 por el art. 3.13 de la Ley 2/2022, de 19 de mayo. Ref. BOE-A-2022-11316
 Se modifica el apartado 2 por el art. único.13 del Capítulo III del Decreto-ley 4/2021, de 17 de junio. Ref. BORM-s-2021-90231#au-2
 Se modifica por el art. 23.19 de la Ley 10/2018, de 9 de noviembre. Ref. BOE-A-2019-363#ar-23
 Se modifica por el art. 3.18 de la Ley 2/2017, de 13 de febrero. Ref. BOE-A-2017-2468#at.
