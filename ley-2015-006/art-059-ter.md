@@ -3,6 +3,7 @@ Artículo 59 ter. Procedimiento de mediación extrajudicial para la resolución 
 2. Los procedimientos de mediación para la resolución de situaciones de sobreendeudamiento serán coordinados por la dirección general competente en materia de vivienda.
 3. Si durante la tramitación del procedimiento de mediación para la resolución de una situación de sobreendeudamiento se inicia un procedimiento judicial concursal, el deudor debe comunicarlo a la dirección general competente en materia de vivienda, que procederá al archivo del procedimiento de mediación.
 4. El procedimiento al que se refiere el presente artículo es un procedimiento de mediación en los términos en que se establecerá en el reglamento de desarrollo de la presente ley.
+Se modifican los apartados 2 y 3 por el art. 1.25 de la Ley 3/2022, de 24 de mayo. Ref. BOE-A-2022-11317
 Se modifican los apartados 2 y 3 por el art. 1.25 del Decreto-ley 10/2020, de 8 de octubre. Ref. BORM-s-2020-90407#a1
 Se modifican los apartados 2 y 3 por el art. 3.10 y 11 de la Ley 2/2020, de 27 de julio. Ref. BOE-A-2020-9792
 Se modifican los apartados 2 y 3 por el art. 3.10 y 11 del Decreto-ley 3/2020, de 23 de abril. Ref. BORM-s-2020-90126#a3

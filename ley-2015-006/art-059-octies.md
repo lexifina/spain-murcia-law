@@ -9,4 +9,5 @@ f) Paliar las consecuencias del lanzamiento hipotecario mediante la creación de
 g) Promover la mediación social en el alquiler de viviendas.
 h) Realizar las actuaciones procedentes encaminadas a negociar acuerdos de reducción de la deuda pendiente una vez perdida la vivienda para evitar el riesgo de exclusión que supone una condena a la insolvencia económica.
 i) Cualquier otra labor relacionada con sus funciones que se le encomiende.
+Se añade por el art. 1.26 de la Ley 3/2022, de 24 de mayo. Ref. BOE-A-2022-11317
 Se añade por el art. 1.26 del Decreto-ley 10/2020, de 8 de octubre. Ref. BORM-s-2020-90407#a1
