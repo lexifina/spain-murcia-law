@@ -1,0 +1,4 @@
+Disposición adicional única. Planes de emergencia de presas, embalses y balsas.
+Quedan excluidos de la inscripción en el Registro de Planes de Protección Civil de la Región de Murcia los planes de emergencia de las infraestructuras hidráulicas que corresponda inscribir en los siguientes registros:
+a) El Registro de Seguridad de Presas, Embalses y Balsas a que se refiere el Decreto Regional 338/2009, de 16 de octubre, por el que se atribuyen competencias en materia de seguridad de presas, embalses y balsas.
+b) El Registro de Seguridad de Presas y Embalses a que se refiere el Real Decreto 9/2008, de 11 de enero, por el que se modifica el Reglamento del Dominio Público Hidráulico, aprobado por el Real Decreto 849/1986, de 11 de abril, se incorpora al citado Reglamento el título VII, sobre la seguridad de presas, embalses y balsas
