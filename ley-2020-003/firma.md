@@ -2,9 +2,11 @@ Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, 
 Murcia, 27 de julio de 2020.–El Presidente, Fernando López Miras.
 ANEXO I
 Límites de Zona 1 y Zona 2
+Se deja sin efecto la modificación por Resolución de 1 de septiembre de 2023 que publica el Acuerdo de la Diputación Permanente de la Asamblea Regional de Murcia por el que se deroga el Decreto-ley 3/2023, de 3 de agosto. Ref. BORM-s-2023-90262
 Se modifica por el art. único.3 del Decreto-ley 3/2023, de 3 de agosto. Ref. BORM-s-2023-90255
 ANEXO II
 Área de exclusión temporal
+Se deja sin efecto la modificación por Resolución de 1 de septiembre de 2023 que publica el Acuerdo de la Diputación Permanente de la Asamblea Regional de Murcia por el que se deroga el Decreto-ley 3/2023, de 3 de agosto. Ref. BORM-s-2023-90262
 Se modifica por el art. único.4 del Decreto-ley 3/2023, de 3 de agosto. Ref. BORM-s-2023-90255
 ANEXO III
 Directrices técnicas para la implantación de estructuras vegetales de conservación
