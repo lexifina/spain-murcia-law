@@ -1,1 +1,0 @@
-Se deja sin efecto la derogación efectuada por la disposición derogatoria única del Decreto-ley 3/2022, de 22 de septiembre. Ref. BORM-s-2022-90295#dd, por Acuerdo de la Asamblea de Murcia, publicado por Resolución de 19 de octubre de 2022. Ref. BORM-s-2022-90349
