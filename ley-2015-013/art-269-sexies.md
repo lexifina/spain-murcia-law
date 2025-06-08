@@ -1,0 +1,6 @@
+Artículo 269 sexies. Régimen jurídico de las entidades colaboradoras de certificación urbanística.
+1. Las entidades colaboradoras de certificación urbanística actuarán con imparcialidad, confidencialidad e independencia. El personal a su servicio deberá respetar las disposiciones en materia de incompatibilidades.
+2. En su actuación, las entidades colaboradoras podrán emitir actas, certificados e informes que serán incorporados al expediente administrativo y podrán ser asumidos por las Administraciones Públicas, sin perjuicio de la oposición motivada por parte de éstas. El contenido de los documentos emitidos por estas entidades no tiene carácter vinculante para los servicios técnicos ni para los órganos de las Administraciones Públicas con competencia en esta materia.
+3. El certificado de conformidad favorable será suficiente para la concesión de la licencia o autorización administrativa que corresponda, sin perjuicio de lo dispuesto en el apartado tercero del artículo 268 bis de esta ley. En los casos de certificados de no conformidad, será precisa la ratificación o rectificación por los servicios técnicos municipales o autonómicos.
+4. El ejercicio de su actividad se llevará a cabo en régimen de libre concurrencia.
+Se añade por el art. 61.17 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130

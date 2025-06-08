@@ -1,0 +1,5 @@
+Artículo 269 ter. Concepto de entidades colaboradoras de certificación urbanística.
+1. Se consideran entidades colaboradoras de certificación urbanística, a las entidades privadas con personalidad jurídica y plena capacidad de obrar, habilitadas e inscritas por la Consejería competente en materia de urbanismo, que ejercen bajo su responsabilidad las funciones de control e inspección en el ámbito de su actividad.
+2. Las entidades colaboradoras de certificación urbanística tendrán carácter técnico y dispondrán de los medios materiales, personales y financieros necesarios para el desempeño adecuado de sus funciones, debiendo cumplir los requisitos de habilitación señalados en el artículo siguiente.
+3. Los colegios profesionales podrán ser habilitados como entidades colaboradoras de certificación urbanística. El colegio profesional correspondiente deberá identificar al personal colegiado que realice las funciones de control e inspección, que reúna los requisitos establecidos en la presente Ley.
+Se añade por el art. 61.17 del Decreto-ley 1/2025, de 5 de junio. Ref. BORM-s-2025-90130
