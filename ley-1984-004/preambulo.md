@@ -1,8 +1,0 @@
-EL PRESIDENTE DE LA COMUNIDAD AUTONOMA DE LA REGION DE MURCIA
-Sea notorio a todos los ciudadanos de la Región de Murcia que la Asamblea Regional ha aprobado la Ley 4/1984, de 12 de noviembre, por la que se crea el Consejo Asesor de RTVE en la Región de Murcia.
-Por consiguiente, al amparo del artículo 30.2 del Estatuto de Autonomía, en nombre del Rey, promulgo y ordeno la publicación de la siguiente Ley.
-EXPOSICION DE MOTIVOS
-La Constitución española reconoce y protege, en su articulo 20 «el derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión» y dispone en su número 3 que «la ley regulará la organización y el control parlamentario en los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad...».
-El artículo 14 del Estatuto de Autonomía para la Región de Murcia establece la competencia de la Comunidad Autónoma para el desarrollo legislativo y la ejecución del régimen de radiodifusión y televisión en los términos y casos establecidos en la Ley reguladora del Estatuto Jurídico de la Radio y la Televisión.
-El artículo 14.2 del Estatuto de RTVE prevé la constitución en la Comunidad Autónoma de la Región de Murcia del Consejo Asesor como órgano de apoyo al delegado territorial, cuya composición se determinará por Ley de la Comunidad Autónoma.
-La presente Ley da cumplimiento a lo previsto en el Estatuto de RTVE articulando tanto la composición del Consejo Asesor como su funcionamiento, el cual se crea como instrumento de participación y representación de los intereses de la Comunidad Autónoma de la Región de Murcia en RTVE.
