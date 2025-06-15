@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 10/2014, de 27 de noviembre, reguladora del transporte público de personas en vehículos de turismo por medio de taxi y del arrendamiento de vehículos con conductor de la Comunidad Autónoma de la Región de Murcia.", según establece el art. único.1 del Decreto-ley 2/2025, de 12 de junio. Ref. BORM-s-2025-90140
