@@ -1,0 +1,4 @@
+Artículo 59 nonies. Competencia de los Servicios Sociales de Atención Primaria en la emisión de informes de vulnerabilidad.
+En relación con la vivienda, y en lo que respecta a sus inquilinos u ocupantes, será competencia de los Servicios Sociales de Atención Primaria la evaluación, valoración y emisión de informes referentes a la determinación, en su caso, de situaciones de necesidad, exclusión o vulnerabilidad, entendiendo estas situaciones en un sentido amplio, que puede incluir aspectos sociales, económicos, residenciales, habitacionales o de cualquier otro tipo.
+La solicitud de evaluación, valoración e informe podrá ser realizada tanto por las distintas Administraciones Públicas como por los particulares que presenten un interés legítimo.
+Se añade por el art. 1.9 del Decreto-ley 3/2025, de 2 de octubre. Ref. BORM-s-2025-90237
