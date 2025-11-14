@@ -1,1 +1,0 @@
-Dado en Murcia, a 2 de octubre de 2025.‒El Presidente, por sustitución, la Consejera de Política Social, Familias e Igualdad, María Concepción Ruiz Caballero.‒El Consejero de Fomento e Infraestructuras, Jorge García Montoro.
