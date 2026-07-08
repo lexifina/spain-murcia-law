@@ -1,0 +1,2 @@
+Disposición transitoria única. Plazos de suspensión del otorgamiento de licencias.
+Lo establecido en el apartado quinto de la disposición final primera sobre la suspensión del otorgamiento de licencias será de aplicación a los instrumentos de planeamiento cuya suspensión de licencias no haya concluido a la fecha de entrada en vigor del presente decreto-ley. En ningún caso resultará de aplicación a suspensiones ya extinguidas por transcurso del plazo máximo establecido en la regulación anterior.
