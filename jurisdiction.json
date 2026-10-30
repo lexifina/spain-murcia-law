@@ -1,0 +1,11 @@
+{
+  "path": "es-mc",
+  "code": "ES-MC",
+  "name": "Region of Murcia",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-murcia-law",
+  "build": "built: statute of autonomy and laws (175 norms, 705 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
