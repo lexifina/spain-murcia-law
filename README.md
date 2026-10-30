@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-175 norms with 705 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 11 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+178 norms with 711 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 14 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -189,6 +189,9 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `decreto-ley-2022-003/` | Decreto-ley 3/2022, de 22 de septiembre, de medidas urgentes en materia de régimen sancionador de establecimientos públicos, espectáculos públicos y actividades recreativas ocasionales o extraordinarias en la Comunidad Autónoma de la Región de Murcia. | 2 | oldest version available, then each change: 30 September 2022 to 16 November 2022; **repealed** 16 November 2022 by Resolución de 19 de octubre de 2022 (BORM-s-2022-90349) | 2023-12-26 |
 | `decreto-ley-2022-006/` | Decreto-ley 6/2022, de 17 de noviembre, de medidas fitosanitarias excepcionales y urgentes para la gestión de los restos vegetales generados en la propia explotación mediante quema controlada "in situ" para evitar la proliferación y dispersión de organismos nocivos de la Región de Murcia. | 2 | oldest version available, then each change: 19 November 2022 to 11 April 2023; **repealed** 11 April 2023 by Decreto-ley 1/2023, de 5 de abril (BORM-s-2023-90141) | 2025-03-28 |
 | `decreto-ley-2025-003/` | Decreto-ley 3/2025, de 2 de octubre, de medidas urgentes en materia de vivienda y ordenación urbanística. | 2 | oldest version available, then each change: 5 October 2025 to 14 November 2025; **repealed** 14 November 2025 by Resolución de 31 de octubre de 2025 (BORM-s-2025-90271) | 2025-11-14 |
+| `decreto-ley-2019-002/` | Decreto-ley 2/2019, de 26 de diciembre, de Protección Integral del Mar Menor. | 2 | oldest version available, then each change: 28 December 2019 to 2 August 2020; **repealed** 2 August 2020 by Ley 3/2020, de 27 de julio (BOE-A-2020-9793) | 2026-06-26 |
+| `decreto-ley-2020-010/` | Decreto-ley 10/2020, de 8 de octubre, por el que se establecen medidas de lucha contra la ocupación de las viviendas en la Región de Murcia y se modifica la Ley 2/2012, de 11 de mayo, y el Decreto Legislativo 1/1999, de 2 de diciembre, por el que se aprueba el texto refundido de la Ley de Hacienda de la Región de Murcia. | 2 | oldest version available, then each change: 16 October 2020 to 2 June 2022; **repealed** 2 June 2022 by Ley 3/2022, de 24 de mayo (BOE-A-2022-11317) | 2026-05-05 |
+| `decreto-ley-2021-004/` | Decreto-ley 4/2021, de 17 de junio, de simplificación administrativa en materia de Medio Ambiente, Medio Natural, Investigación e Innovación Agrícola y Medioambiental. | 2 | oldest version available, then each change: 23 June 2021 to 2 June 2022; **repealed** 2 June 2022 by Ley 2/2022, de 19 de mayo (BOE-A-2022-11316) | 2023-12-26 |
 
 ## Source
 
