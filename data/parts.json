@@ -212,6 +212,12 @@
     "decreto-ley-2021-004"
    ],
    "sha256": "12b3f1a690e1282092198e1b6f4834f5198ff0dd5a4a2ee8a7e376ca941123df"
+  },
+  "98-update-20261106-32normas03.json": {
+   "acts": [
+    "ley-2013-012"
+   ],
+   "sha256": "3eb33f547e7d35ef191bc4e0e0e093b920aebfc4dbe842bbf8d1ecdc128daeea"
   }
  },
  "schema": 1

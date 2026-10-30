@@ -3940,6 +3940,12 @@
      "units": 71,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-750",
      "sha256": "19b97115ac92c792d443ad4a0976a68afb78efb2fb370f43e3be993a63dda219"
+    },
+    {
+     "from": "2026-11-04",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-750",
+     "sha256": "62c188f117160f01f33333af8f4e24fff59e4caac2e71675db3907baacb66dd9"
     }
    ]
   },

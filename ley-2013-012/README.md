@@ -1,6 +1,6 @@
 # Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia.
 
-Ley 12/2013, de 20 de diciembre · 7 versions, from 2014-01-13 (latest in force: 2021-01-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-2014-750>
+Ley 12/2013, de 20 de diciembre · 8 versions, from 2014-01-13 (latest in force: 2021-01-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-2014-750>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -45,7 +45,7 @@ Ley 12/2013, de 20 de diciembre · 7 versions, from 2014-01-13 (latest in force:
 | Artículo 37 | [art-037.md](art-037.md) | 0 |  |
 | Artículo 38 | [art-038.md](art-038.md) | 1 | 2014-12-03 |
 | Artículo 39 | [art-039.md](art-039.md) | 0 |  |
-| Artículo 40 | [art-040.md](art-040.md) | 1 | 2014-12-03 |
+| Artículo 40 | [art-040.md](art-040.md) | 2 | 2026-11-04 |
 | Artículo 41 | [art-041.md](art-041.md) | 0 |  |
 | Artículo 42 | [art-042.md](art-042.md) | 0 |  |
 | Artículo 43 | [art-043.md](art-043.md) | 0 |  |
@@ -53,7 +53,7 @@ Ley 12/2013, de 20 de diciembre · 7 versions, from 2014-01-13 (latest in force:
 | Artículo 45 | [art-045.md](art-045.md) | 0 |  |
 | Artículo 46 | [art-046.md](art-046.md) | 0 |  |
 | Artículo 47 | [art-047.md](art-047.md) | 0 |  |
-| Artículo 48 | [art-048.md](art-048.md) | 1 | 2014-12-03 |
+| Artículo 48 | [art-048.md](art-048.md) | 2 | 2026-11-04 |
 | Artículo 49 | [art-049.md](art-049.md) | 0 |  |
 | Artículo 50 | [art-050.md](art-050.md) | 0 |  |
 | Artículo 51 | [art-051.md](art-051.md) | 0 |  |

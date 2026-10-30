@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-178 norms with 711 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 14 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+178 norms with 712 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 14 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -118,7 +118,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2013-005/` | Ley 5/2013, de 8 de julio, de apoyo a los emprendedores y a la competitividad e internacionalización de las pequeñas y medianas empresas (PYMES) de la Región de Murcia. | 2 | as first published, then each change: 11 July 2013 to 11 November 2018 | 2025-12-19 |
 | `ley-2013-006/` | Ley 6/2013, de 8 de julio, de medidas en materia tributaria del sector público, de política social y otras medidas administrativas | 4 | as first published, then each change: 11 July 2013 to 4 June 2016 | 2025-12-19 |
 | `ley-2013-010/` | Ley 10/2013, de 18 de octubre, para el aprovechamiento de excedentes alimentarios y creación de la Red Solidaria para el Aprovechamiento de Alimentos. | 1 | as first published: 25 October 2013 | 2025-12-19 |
-| `ley-2013-012/` | Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia. | 7 | as first published, then each change: 13 January 2014 to 1 January 2021 | 2026-10-15 |
 | `ley-2014-001/` | Ley 1/2014, de 13 de marzo, de Artesanía de la Región de Murcia. | 2 | as first published, then each change: 18 April 2014 to 28 March 2015 | 2025-12-19 |
 | `ley-2014-002/` | Ley 2/2014, de 21 de marzo, de Proyectos Estratégicos, Simplificación Administrativa y Evaluación de los Servicios Públicos de la Comunidad Autónoma de la Región de Murcia. | 5 | as first published, then each change: 28 March 2014 to 8 June 2025 | 2025-12-19 |
 | `ley-2014-003/` | Ley 3/2014, de 2 de julio, de Venta Ambulante o no Sedentaria de la Región de Murcia. | 1 | as first published: 8 July 2014 | 2025-12-19 |
@@ -192,6 +191,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `decreto-ley-2019-002/` | Decreto-ley 2/2019, de 26 de diciembre, de Protección Integral del Mar Menor. | 2 | oldest version available, then each change: 28 December 2019 to 2 August 2020; **repealed** 2 August 2020 by Ley 3/2020, de 27 de julio (BOE-A-2020-9793) | 2026-06-26 |
 | `decreto-ley-2020-010/` | Decreto-ley 10/2020, de 8 de octubre, por el que se establecen medidas de lucha contra la ocupación de las viviendas en la Región de Murcia y se modifica la Ley 2/2012, de 11 de mayo, y el Decreto Legislativo 1/1999, de 2 de diciembre, por el que se aprueba el texto refundido de la Ley de Hacienda de la Región de Murcia. | 2 | oldest version available, then each change: 16 October 2020 to 2 June 2022; **repealed** 2 June 2022 by Ley 3/2022, de 24 de mayo (BOE-A-2022-11317) | 2026-05-05 |
 | `decreto-ley-2021-004/` | Decreto-ley 4/2021, de 17 de junio, de simplificación administrativa en materia de Medio Ambiente, Medio Natural, Investigación e Innovación Agrícola y Medioambiental. | 2 | oldest version available, then each change: 23 June 2021 to 2 June 2022; **repealed** 2 June 2022 by Ley 2/2022, de 19 de mayo (BOE-A-2022-11316) | 2023-12-26 |
+| `ley-2013-012/` | Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia. | 8 | as first published, then each change: 13 January 2014 to 4 November 2026 | 2026-11-06 |
 
 ## Source
 

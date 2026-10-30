@@ -118,7 +118,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2013-005` | Ley 5/2013, de 8 de julio, de apoyo a los emprendedores y a la competitividad e internacionalización de las pequeñas y medianas empresas (PYMES) de la Región de Murcia. | 2 | 2013-07-11 to 2018-11-11 |
 | `ley-2013-006` | Ley 6/2013, de 8 de julio, de medidas en materia tributaria del sector público, de política social y otras medidas administrativas | 4 | 2013-07-11 to 2016-06-04 |
 | `ley-2013-010` | Ley 10/2013, de 18 de octubre, para el aprovechamiento de excedentes alimentarios y creación de la Red Solidaria para el Aprovechamiento de Alimentos. | 1 | 2013-10-25 to 2013-10-25 |
-| `ley-2013-012` | Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia. | 7 | 2014-01-13 to 2021-01-01 |
+| `ley-2013-012` | Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia. | 8 | 2014-01-13 to 2026-11-04 |
 | `ley-2014-001` | Ley 1/2014, de 13 de marzo, de Artesanía de la Región de Murcia. | 2 | 2014-04-18 to 2015-03-28 |
 | `ley-2014-002` | Ley 2/2014, de 21 de marzo, de Proyectos Estratégicos, Simplificación Administrativa y Evaluación de los Servicios Públicos de la Comunidad Autónoma de la Región de Murcia. | 5 | 2014-03-28 to 2025-06-08 |
 | `ley-2014-003` | Ley 3/2014, de 2 de julio, de Venta Ambulante o no Sedentaria de la Región de Murcia. | 1 | 2014-07-08 to 2014-07-08 |
@@ -204,7 +204,7 @@ The build made 433 commits:
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 371 laws in the record.
+- 372 laws in the record.
 - 1062 tags.
 
 ## Dates
@@ -217,13 +217,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2f4d29ce20fcdf763af85b4774912b92d297d00c561f6a5a583783f0d8c1bb38` (21320619 bytes).
+- Corpus: sha256 `4859f2d2716a3db04ddea03e5e470f31a37a309175daa95dee7cbe4d74780ac0` (21436991 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-711 versions of 178 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -238,6 +238,7 @@ No second build of this corpus has been compared yet.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms repealed (or found) after the first capture follow the same rule. When the BOE's three records do not all agree, a norm is still included if its metadata marks it repealed with a fecha_derogacion and no text changes on or after that day: the repeal day is that fecha_derogacion, and the repealer is the one norm named on that day's repeal note, or, with no note that day, the only SE DEROGA reference. Norms whose force ran out without a repeal (vigencia agotada) and annulled norms are left out.
+- Updates: when the BOE updates the consolidated text of a published norm, its published versions stay as they are and the newer versions are appended, each dated by its fecha_vigencia; a norm the BOE has since repealed ends with a commit that removes its text on the fecha_derogacion, credited to the repealing norm, and keeps that repeal in its record. An update that would change a version already published is held for review, never applied.
 
 ## What AI did and did not do
 
