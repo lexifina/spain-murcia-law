@@ -5696,6 +5696,20 @@
      "sha256": "93d4623114ef5a1b105b90b25aceac78d0d89d25a204984978dbb8e9387400fb"
     }
    ]
+  },
+  {
+   "slug": "ley-2026-003",
+   "short": "Ley 3/2026, de 8 de octubre",
+   "title": "Ley 3/2026, de 8 de octubre, por la que se regulan los Bienes de Interés Turístico de la Región de Murcia y se modifica la Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-23274",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-23274",
+     "sha256": "8b722d042a8597f3fa47a5e2ca5ed66769e03bb5f70c34c522cb1d654dba73a9"
+    }
+   ]
   }
  ]
 }
