@@ -1,79 +1,66 @@
 {
- "generated": "2026-11-23T14:06:27Z",
+ "generated": "2026-11-24T07:30:33Z",
  "latest": {
   "boe-autonomico|spain/murcia/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": {
-    "examples": [
-     "BOE-A-1985-2104: 0 of 16 blocks of the page not found here; 967 of 5820 letters here not on the page as such"
-    ],
-    "match_neither": 1,
-    "match_new": 7,
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 6,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
-    "sampled": 8,
+    "sampled": 6,
     "unread": 0
    },
    "census": {
     "awaiting_text": 0,
-    "checked": 8,
-    "current": 178,
+    "checked": 6,
+    "current": 179,
     "gone": 0,
-    "held": 178,
+    "held": 179,
     "listed_without_text": 0,
     "newest_at_source": "BOE-A-2026-23274",
-    "newest_in_repo": "BORM-s-2026-90179",
+    "newest_in_repo": "BOE-A-2026-23274",
     "out_of_scope": 1,
     "pending": 0,
-    "repo": 178,
+    "repo": 179,
     "source_in_scope": 180
    },
-   "check_id": "es-boe-autonomico-20261123T140229Z",
-   "commits": {
-    "count": 2,
-    "from": "ea94498795cfb4465e0bad4d72dd35088ade8485",
-    "to": "87ab2797f0b4229b3d2f4c5c85f056c77cd7829a"
-   },
+   "check_id": "es-boe-autonomico-20261124T072715Z",
+   "commits": null,
    "corpus": "spain/murcia/acts",
    "error": null,
-   "finished": "2026-11-23T14:03:16Z",
-   "flags": [
-    {
-     "detail": "1 of 8 read again by a second route disagree",
-     "flag": "audit-disagrees"
-    }
-   ],
+   "finished": "2026-11-24T07:27:47Z",
+   "flags": [],
    "gap": 1,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-11-06; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
-   "outcome": "changed",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-11-06; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "BOE-A-2026-23274"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 26,
-   "runner": "lawwatch spain (f13b561b4f)",
+   "requests": 23,
+   "runner": "lawwatch spain (3a3ae06cd1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T13:21:37Z",
+   "snapshot": "2026-11-23T14:01:19Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T14:02:29Z",
+   "started": "2026-11-24T07:27:15Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
     "examples": [],
-    "held": 164,
-    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 8 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (5 of 164 swept this check)",
+    "held": 165,
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 6 reads, 2.5 s apart), rendered by the repository's own builder (es_ccaa.py and gitlaw_common), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 30 days (6 of 165 swept this check)",
     "ok": true,
-    "swept": 5,
+    "swept": 6,
     "unread": 0,
-    "versions_checked": 8,
+    "versions_checked": 6,
     "versions_differ": 0
    }
   }
