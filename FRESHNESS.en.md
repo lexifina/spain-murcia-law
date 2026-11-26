@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/murcia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 06:27 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:31 UTC**.
 - Acts held here: 179; current at the source: 179; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 6 of the 179 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 1 (outside this repository's scope: 1); with no reason: 0.
