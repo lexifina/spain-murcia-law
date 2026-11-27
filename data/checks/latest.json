@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-26T06:34:52Z",
+ "generated": "2026-11-27T06:34:37Z",
  "latest": {
   "boe-autonomico|spain/murcia/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1993-1776: 1 of 37 blocks of the page not found here; 26637 of 55729 letters here not on the page as such"
+     "BOE-A-1995-13301: 0 of 123 blocks of the page not found here; 26861 of 115830 letters here not on the page as such"
     ],
     "match_neither": 1,
     "match_new": 5,
@@ -28,11 +28,11 @@
     "repo": 179,
     "source_in_scope": 180
    },
-   "check_id": "es-boe-autonomico-20261126T063127Z",
+   "check_id": "es-boe-autonomico-20261127T063133Z",
    "commits": null,
    "corpus": "spain/murcia/acts",
    "error": null,
-   "finished": "2026-11-26T06:31:59Z",
+   "finished": "2026-11-27T06:32:04Z",
    "flags": [
     {
      "detail": "1 of 6 read again by a second route disagree",
@@ -40,7 +40,7 @@
     }
    ],
    "gap": 1,
-   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-11-06; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-11-06; 1 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -55,9 +55,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-25T14:14:13Z",
+   "snapshot": "2026-11-26T13:04:42Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T06:31:27Z",
+   "started": "2026-11-27T06:31:33Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
